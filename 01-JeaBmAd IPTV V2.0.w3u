@@ -1,0 +1,112 @@
+{
+"name": "01-JeaBmAd IPTV V 2.0",
+"author": "Update 02 May 2021",
+"image": "https://i.pinimg.com/originals/5e/5c/e8/5e5ce8ba3c46ef1a121088a5d802627c.png",
+"url": "http://tiny.cc/JIPTV2-0",
+
+"groups": [
+
+{
+"name": "01-Digital TV",
+"author": "JeaBmAd-Version 2.0 02 May 2021",
+"image": "https://www.isranews.org/images/2018/isranews/04/25042018.jpg",
+"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.1-Digital-TV.w3u",
+"import": false
+},
+
+{
+"name": "02-Documentary",
+"author": "JeaBmAd-Version 2.0 02 May 2021",
+"image": "https://www.filmsite.org/images/documentary-genre.jpg",
+"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.2-Documentary.w3u",
+"import": false
+},
+
+{
+"name": "03-Entertainment",
+"author": "JeaBmAd-Version 2.0 02 May 2021",
+"image": "https://d8xxy3dl0iwm6.cloudfront.net/wp-content/uploads/2016/12/Open_true2.png",
+"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.3-Entertainment.w3u",
+"import": false
+},
+
+{
+"name": "04-Sports",
+"author": "JeaBmAd-Version 2.0 02 May 2021",
+"image": "https://i.pinimg.com/originals/df/6b/02/df6b0274ef07c195f32a2a7a7e7556e6.png",
+"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.4-Sports.w3u",
+"import": false
+},
+
+{
+"name": "05-Kids",
+"author": "JeaBmAd-Version 2.0 02 May 2021",
+"image": "https://www.pngkey.com/png/detail/877-8779194_cartoon-network-nickelodeon-disney-channel-logo-png-cartoon.png",
+"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.5-Kids.w3u",
+"import": false
+},
+
+{
+"name": "06-Radio",
+"author": "JeaBmAd-Version 2.0 02 May 2021",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRjXLTpcQmhNimuogzpdgB6FMdi4zIMLmkTyQ&usqp=CAU",
+"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.6-Radio.m3u",
+"import": false
+},
+
+{
+"name": "07-Thai Movie",
+"author": "JeaBmAd-Version 2.0 02 May 2021",
+"image": "https://us-fbcloud.net/wb/data/1143/1143468-img.tmsyo6.0p.jpg",
+"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.7-Thai%20Movie.m3u",
+"import": false
+},
+
+{
+"name": "08-Series",
+"author": "JeaBmAd-Version 2.0 02 May 2021",
+"image": "https://logos.flamingtext.com/Word-Logos/series-design-girls-name.png",
+"imageScale": "centerCrop",
+"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8-Series.w3u",
+"import": false
+},	
+
+{
+"name": "09-Cartoon",
+"author": "JeaBmAd-Version 2.0 02 May 2021",
+"image": "https://logos.textgiraffe.com/logos/logo-name/Cartoon-designstyle-cartoon-m.png",
+"imageScale": "centerCrop",
+"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.9-Cartoon.w3u",
+"import": false
+},	
+
+{
+"name": "10-Football Program",
+"author": "JeaBmAd-Version 2.0 02 May 2021",
+"image": "https://www.freelogovector.com/wp-content/uploads/2017/06/64%20-%20PNG%20soccer%20copy.jpg",
+"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.9-Football%20Program.w3u",
+"import": false
+},
+
+{
+"name": "11-Live Score",
+"author": "JeaBmAd-Version 2.0 02 May 2021",
+"image": "https://i1.wp.com/5star.media/wp-content/uploads/2020/06/LiveScore-New.png?fit=793%2C485&ssl=1",
+"imageScale": "centerCrop",
+"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.10-Live%20Score.w3u",
+"import": false
+},
+
+{
+"name": "12-FC Nakom",
+"author": "JeaBmAd-Version 2.0 02 May 2021",
+"image": "https://media0.giphy.com/media/r8baUZSywo6i9wqUaU/giphy.gif",
+"imageScale": "centerCrop",
+"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.11-nakom.w3u",
+"import": false
+},
+
+
+
+]
+}
