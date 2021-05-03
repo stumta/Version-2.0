@@ -1,0 +1,79 @@
+{
+	"name": "1.7-Movie",
+	"author": "Version 2.0 02 May 2021",
+	"image": "https://inwfile.com/s-de/t1xo04.jpg",
+	"imageScale": "centerCrop",
+	"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.7-Movie.w3u",
+	
+	"groups": [
+	
+
+						
+				{
+					"name": "1.7.01-Inter Movie I 1980-2003",
+					"image": "https://us-fbcloud.net/wb/data/755/755740-topic-ix-0.jpg",
+					"imageScale": "centerCrop",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.7.2.1-Inter%20Movie%20I%201980-2003.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.7.02-Inter Movie II 2004-2010",
+					"image": "https://us-fbcloud.net/wb/data/755/755740-topic-ix-0.jpg",
+					"imageScale": "centerCrop",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.7.2.2-Inter%20Movie%20II%202004-2010.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.7.03-Inter Movie III 2011-2014",
+					"image": "https://us-fbcloud.net/wb/data/755/755740-topic-ix-0.jpg",
+					"imageScale": "centerCrop",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.7.2.3-Inter%20Movie%20III%202011-2014.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.7.04-Inter Movie IV 2015-2017",
+					"image": "https://us-fbcloud.net/wb/data/755/755740-topic-ix-0.jpg",
+					"imageScale": "centerCrop",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.7.2.4-Inter%20Movie%20IV%202015-2017.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.7.05-Inter Movie V 2018-2021",
+					"image": "https://us-fbcloud.net/wb/data/755/755740-topic-ix-0.jpg",
+					"imageScale": "centerCrop",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.7.2.5-Inter%20Movie%20V%202018-2021.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.7.06-Thai Movie",
+					"image": "https://us-fbcloud.net/wb/data/1143/1143468-img.tmsyo6.0p.jpg",
+					"imageScale": "centerCrop",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.7-Thai%20Movie.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.7.07-FC Nakom",
+					"image": "https://media0.giphy.com/media/r8baUZSywo6i9wqUaU/giphy.gif",
+					"imageScale": "centerCrop",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.11-nakom.w3u",
+					"import": false
+				},
+				
+								
+     					
+			]	
+				
+		},
+
+				
+			]
+			
+		
+    ]
+}
