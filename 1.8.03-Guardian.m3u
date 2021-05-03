@@ -1,0 +1,60 @@
+
+#EXTM3U
+
+#================================= GUARDIAN =================================================================
+#
+#								Update 26 January 2021 EP-01 to EP-16
+#
+#============================================================================================================
+
+#EXTINF:-1 group-title="GUARDIAN" tvg-logo="https://trueid-ugc-prod.imgix.net/partner_files/trueidintrend/174679/cover_63.jpg?auto=format",ก็อบลิน คําสาปรักผู้พิทักษ์วิญญาณ ตัวอย่าง
+https://pops-vod-thai.akamaized.net/hn-dw6iF9Gsd-YggZ9eXhZ3p-lIQmg/videos/transcoded/guardian_main_trailer_pops-popsthai/index-f1-v1-a1.m3u8
+
+
+#EXTINF:-1 group-title="GUARDIAN" tvg-logo="https://popsimg.akamaized.net/api/v2/containers/file2/cms_thumbnails/thumbnail_episode_guardian_ep_1-a0109044fe33-1601439522803-9kQZu5IN.jpg?v=0&maxW=460&format=webp",ก็อบลิน คําสาปรักผู้พิทักษ์วิญญาณ EP-01
+https://pops-vod-thai.akamaized.net/hn-GckMQcFvymMVyVcdrGt9gCaIBdY/videos/transcoded/vtr_goblin_the_lonely_and_great_god_mp4-cbr25mbps_ep01th_pops-popsthai/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 group-title="GUARDIAN" tvg-logo="https://popsimg.akamaized.net/api/v2/containers/file2/cms_thumbnails/thumbnail_episode_guardian_ep_2-ac818538cbab-1601439565356-rn9pSw8s.jpg?v=0&maxW=460&format=webp",ก็อบลิน คําสาปรักผู้พิทักษ์วิญญาณ EP-02
+https://pops-vod-thai.akamaized.net/hn-_tKkWGPgeqBUP2abaWeVzqWNKAk/videos/transcoded/vtr_goblin_the_lonely_and_great_god_mp4-cbr25mbps_ep02th_pops-popsthai/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 group-title="GUARDIAN" tvg-logo="https://popsimg.akamaized.net/api/v2/containers/file2/cms_thumbnails/thumbnail_episode_guardian_ep_3-19cba48a0887-1601439488732-HLIcbDoI.jpg?v=0&maxW=460&format=webp",ก็อบลิน คําสาปรักผู้พิทักษ์วิญญาณ EP-03
+https://pops-vod-thai.akamaized.net/hn-c8J1k6bbkZd_SHhz2_kMkP1avSI/videos/transcoded/vtr_goblin_the_lonely_and_great_god_mp4-cbr25mbps_ep03th_pops-popsthai/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 group-title="GUARDIAN" tvg-logo="https://popsimg.akamaized.net/api/v2/containers/file2/cms_thumbnails/thumbnail_episode_guardian_ep_4-03ffc636632d-1601439587939-a09RDaya.jpg?v=0&maxW=460&format=webp",ก็อบลิน คําสาปรักผู้พิทักษ์วิญญาณ EP-04
+https://pops-vod-thai.akamaized.net/hn-929jF64w4NiZntVhjHBMhb69DVY/videos/transcoded/vtr_goblin_the_lonely_and_great_god_mp4-cbr25mbps_ep04th_pops-popsthai/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 group-title="GUARDIAN" tvg-logo="https://popsimg.akamaized.net/api/v2/containers/file2/cms_thumbnails/thumbnail_episode_guardian_ep_5-edd50f20d2d4-1601438658385-57llrqwJ.jpg?v=0&maxW=460&format=webp",ก็อบลิน คําสาปรักผู้พิทักษ์วิญญาณ EP-05
+https://pops-vod-thai.akamaized.net/hn-iYnmP8HeD7NYJdBN7qYhtr6V2LQ/videos/transcoded/vtrgoblinthelonelyandgreatgod_mp4-cbr25mbpsep05th_pops-popsthai/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 group-title="GUARDIAN" tvg-logo="https://popsimg.akamaized.net/api/v2/containers/file2/cms_thumbnails/thumbnail_episode_guardian_ep_6-09366272bcfc-1601438613215-rwlbjEDV.jpg?v=0&maxW=460&format=webp",ก็อบลิน คําสาปรักผู้พิทักษ์วิญญาณ EP-06
+https://pops-vod-thai.akamaized.net/hn-Lrv2koNlC-hgclXaQf-bWL8_rqI/videos/transcoded/vtrgoblinthelonelyandgreatgod_mp4-cbr25mbpsep06th_pops-popsthai/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 group-title="GUARDIAN" tvg-logo="https://popsimg.akamaized.net/api/v2/containers/file2/cms_thumbnails/thumbnail_episode_guardian_ep_7-883018630e0f-1601438566093-eBqxrUvA.jpg?v=0&maxW=460&format=webp",ก็อบลิน คําสาปรักผู้พิทักษ์วิญญาณ EP-07
+https://pops-vod-thai.akamaized.net/hn-wMbFSejJk1X4s5Unjksb8n8BzoM/videos/transcoded/vtrgoblinthelonelyandgreatgod_mp4-cbr25mbpsep07th_pops-popsthai/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 group-title="GUARDIAN" tvg-logo="https://popsimg.akamaized.net/api/v2/containers/file2/cms_thumbnails/thumbnail_episode_guardian_ep_8-b4990eacdaea-1601438548438-2BluTeiF.jpg?v=0&maxW=460&format=webp",ก็อบลิน คําสาปรักผู้พิทักษ์วิญญาณ EP-08
+https://pops-vod-thai.akamaized.net/hn-r6b6KhJYBpIzfbrYsH2h5QpAMzA/videos/transcoded/vtrgoblinthelonelyandgreatgod_mp4-cbr25mbpsep08th_pops-popsthai/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 group-title="GUARDIAN" tvg-logo="https://popsimg.akamaized.net/api/v2/containers/file2/cms_thumbnails/thumbnail_episode_guardian_ep_9-c091637b3596-1601438510745-FCOmduYj.jpg?v=0&maxW=460&format=webp",ก็อบลิน คําสาปรักผู้พิทักษ์วิญญาณ EP-09
+https://pops-vod-thai.akamaized.net/hn-heuM-43nUssHRMLLcu5xaA1Daq0/videos/transcoded/vtrgoblinthelonelyandgreatgod_mp4-cbr25mbpsep09th_pops-popsthai/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 group-title="GUARDIAN" tvg-logo="https://popsimg.akamaized.net/api/v2/containers/file2/cms_thumbnails/thumbnail_episode_guardian_ep_10-25444da62a11-1601438466699-MmqDdWxK.jpg?v=0&maxW=460&format=webp",ก็อบลิน คําสาปรักผู้พิทักษ์วิญญาณ EP-10
+https://pops-vod-thai.akamaized.net/hn-szeD1OYSTj_yZ3mKnmHwIH4F8nA/videos/transcoded/vtrgoblinthelonelyandgreatgod_mp4-cbr25mbpsep10th_pops-popsthai/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 group-title="GUARDIAN" tvg-logo="https://popsimg.akamaized.net/api/v2/containers/file2/cms_thumbnails/thumbnail_episode_guardian_ep_11-0730c95bbf93-1601438445360-Q3cbTXb1.jpg?v=0&maxW=460&format=webp",ก็อบลิน คําสาปรักผู้พิทักษ์วิญญาณ EP-11
+https://pops-vod-thai.akamaized.net/hn-uWT2EAVEU_cBZH3vLhPxoWahXx8/videos/transcoded/vtrgoblinthelonelyandgreatgod_mp4-cbr25mbpsep11th_pops-popsthai/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 group-title="GUARDIAN" tvg-logo="https://popsimg.akamaized.net/api/v2/containers/file2/cms_thumbnails/thumbnail_episode_guardian_ep_12-2380bc3fd463-1601438402320-cXfnVnUo.jpg?v=0&maxW=460&format=webp",ก็อบลิน คําสาปรักผู้พิทักษ์วิญญาณ EP-12
+https://pops-vod-thai.akamaized.net/hn-k8jAK2epbRLDZT9QUcXxfaKUH54/videos/transcoded/vtrgoblinthelonelyandgreatgod_mp4-cbr25mbpsep12th_pops-popsthai/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 group-title="GUARDIAN" tvg-logo="https://popsimg.akamaized.net/api/v2/containers/file2/cms_thumbnails/thumbnail_episode_guardian_ep_13-b368a2e30545-1601438374449-PNfjHq0Q.jpg?v=0&maxW=460&format=webp",ก็อบลิน คําสาปรักผู้พิทักษ์วิญญาณ EP-13
+https://pops-vod-thai.akamaized.net/hn-nkUBPOK_jyQnFoDQ5A-b-tR5Y4E/videos/transcoded/vtrgoblinthelonelyandgreatgod_mp4-cbr25mbpsep13th_pops-popsthai/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 group-title="GUARDIAN" tvg-logo="https://popsimg.akamaized.net/api/v2/containers/file2/cms_thumbnails/thumbnail_episode_guardian_ep_14-21c8de9b9837-1601438423701-IgSfUgxc.jpg?v=0&maxW=460&format=webp",ก็อบลิน คําสาปรักผู้พิทักษ์วิญญาณ EP-14
+https://pops-vod-thai.akamaized.net/hn-0N3FlwIFoJ1f0_rLly67vWCtWcc/videos/transcoded/vtrgoblinthelonelyandgreatgod_mp4-cbr25mbpsep14th_pops-popsthai/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 group-title="GUARDIAN" tvg-logo="https://popsimg.akamaized.net/api/v2/containers/file2/cms_thumbnails/thumbnail_episode_guardian_ep_15-077aa3ae3d96-1601438487856-r7ETLk1X.jpg?v=0&maxW=460&format=webp",ก็อบลิน คําสาปรักผู้พิทักษ์วิญญาณ EP-15
+https://pops-vod-thai.akamaized.net/hn-zXruNEjT9M8XwlqLdvue3EafjM0/videos/transcoded/vtrgoblinthelonelyandgreatgod_mp4-cbr25mbpsep15th_pops-popsthai/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 group-title="GUARDIAN" tvg-logo="https://popsimg.akamaized.net/api/v2/containers/file2/cms_thumbnails/thumbnail_episode_guardian_ep_16-c805719dc571-1601438384524-3DfBpqvM.jpg?v=0&maxW=460&format=webp",ก็อบลิน คําสาปรักผู้พิทักษ์วิญญาณ EP-16
+https://pops-vod-thai.akamaized.net/hn-EUbApz1REYMeUWNTHrc-tbH0DT8/videos/transcoded/vtrgoblinthelonelyandgreatgodep16_pops-popsthai/index-f1-v1-a1.m3u8
