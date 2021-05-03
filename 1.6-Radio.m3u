@@ -1,0 +1,301 @@
+#EXTM3U
+
+#=================================================== 06-Radio ========================================================================
+
+# 										Version 1.6 Update 25 January 2021 
+
+#=====================================================================================================================================
+
+#EXTINF:-1 group-title="Radio" tvg-logo="http://www.onlinethailand.net/radio_online/images/880-fm-english.jpg",FM 88.0 Radio Thailand
+https://cld-streaming.prd.go.th/live/192_8800.stream/chunklist_w1759639183.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="http://www.onlinethailand.net/radio_online/images/880-fm-english.jpg",FM 88.0 Radio Thailand
+http://prdonline.prd.go.th:8200/;
+
+
+#=====================================================================================================================================
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="http://radio.siamha.com/logo/890.png",Chill89 FM
+https://real3.atimemedia.com/live/chill.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="http://radio.siamha.com/logo/890.png",Chill89 FM
+http://real3.atimemedia.com:1935/live/chill.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="http://radio.siamha.com/logo/890.png",Chill89 FM
+http://real4.atimemedia.com/chill
+
+#EXTINF:-1 group-title="Radio" tvg-logo="http://radio.siamha.com/logo/890.png",Chill89 FM
+https://atimeonline.smartclick.co.th/chill
+
+
+#=====================================================================================================================================
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/yQaa92p5zN.jpeg",89.5 SWEET FM
+http://radio.spicymkt.com:9230/;stream
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-25-025859.jpg",Phuket Live Radio 89.5 FM
+http://myradio.plathong.net:8020/;stream
+
+
+#=====================================================================================================================================
+
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/mitikao905.png",มิติข่าว 90.5
+http://live3.smartbomb.co.th:8624/stream/1/
+
+
+
+#=====================================================================================================================================
+
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="http://radio.siamha.com/logo/930.png",93 Cool Fm
+https://coolism-web3rd.cdn.byteark.com/;stream/1
+
+#EXTINF:-1 group-title="Radio" tvg-logo="http://radio.siamha.com/logo/930.png",93 Cool Fm
+https://coolism-web.cdn.byteark.com/;stream.mp3
+
+#EXTINF:-1 group-title="Radio" tvg-logo="http://radio.siamha.com/logo/930.png",93 Cool Fm
+https://coolism-web.cdn.byteark.com/;stream/1
+
+
+
+#=====================================================================================================================================
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="http://radio.siamha.com/logo/950.png"FM 95.0 ลูกทุ่งมหานครานคร
+http://lb-media.mcot.net:1935/RadioLive/fm95_live.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="http://radio.siamha.com/logo/950.png"FM 95.0 ลูกทุ่งมหานครานคร 
+https://mcotdigital-1wevsb.cdn.byteark.com/radiocdn_edge/fm95.stream_aac/chunklist_w2109631206.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="http://radio.siamha.com/logo/950.png"FM 95.0 ลูกทุ่งมหานครานคร
+http://mcotdigital-1wevsb.cdn.byteark.com/radiocdn_edge/fm95.stream_aac/playlist.m3u8
+
+#=====================================================================================================================================
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://uppic.cc/d/yw7j",Virgin Hitz 95.5
+https://wzedge1.becteroradio.com/Hitz/Hitz-Listen-High/chunklist_w1373688195.m3u8
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://uppic.cc/d/yw7j",Virgin Hitz 95.5
+https://wzedge1.becteroradio.com/Hitz/Hitz-Listen-Med/playlist.m3u8
+
+#=====================================================================================================================================
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/XGLtJAdrxs.png",SMM 96 Sport Radio
+http://media.login.in.th:8550/stream?type=http
+
+
+#=====================================================================================================================================
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.adintrend.tv/images/radio/96.5x.jpg",96.5 คลื่นความคิด
+https://mcotdigital-9ksau4.cdn.byteark.com/RadioLive/smil:fm965_live.smil/chunklist_w673711091_b500000.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.adintrend.tv/images/radio/96.5x.jpg",96.5 คลื่นความคิ
+http://lb-media.mcot.net:1935/RadioLive/fm965_live.smil/playlist.m3u8
+
+#=====================================================================================================================================
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2018/01/Mellow-97.5.jpg",Mellow 97.5
+https://mcotdigital-3bgyw0.cdn.byteark.com/radiocdn_edge/fm975.stream_aac/chunklist_w1644975532.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2018/01/Mellow-97.5.jpg",Mellow 97.5
+https://mcotdigital-3bgyw0.cdn.byteark.com/radiocdn_edge/fm975.stream_aac/playlist.m3u8
+
+#=====================================================================================================================================
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.coolzaa.com/wp-content/uploads/2018/06/98-EDS.jpg",98.0 EDS
+https://cdn-th2.login.in.th/shoutcast/1290
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.coolzaa.com/wp-content/uploads/2018/06/98-EDS.jpg",98.0 EDS
+http://media.login.in.th:1290/stream
+
+
+#=====================================================================================================================================
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.adintrend.tv/images/radio/99x.jpg",Fm99 Active Radio
+https://mcotdigital-gvwieh.cdn.byteark.com/radiocdn_edge/fm99.stream_aac/chunklist_w1668071839.m3u8
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.adintrend.tv/images/radio/99x.jpg",Fm99 Active Radio
+https://mcotdigital-gvwieh.cdn.byteark.com/radiocdn_edge/fm99.stream_aac/playlist.m3u8
+
+
+#=====================================================================================================================================
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.adintrend.tv/images/radio/100x.jpg",จส.100 (js100)
+http://112.121.151.133:8184/;&type=mp3
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.adintrend.tv/images/radio/100x.jpg",จส.100 (js100)
+http://live11.netdesignhost.com:1935/pacificlive/pacificlive/playlist.m3u8
+
+#=====================================================================================================================================
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://uppic.cc/d/yw7o",Flex 102.5
+https://wzorigin.becteroradio.com/Flex/flex-radio2/playlist.m3u8
+
+
+#=====================================================================================================================================
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/gLFBxhmDEk.jpg",103 Like FM
+http://103likefm.plathong.net:7064/;stream
+
+
+#=====================================================================================================================================
+
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/hadgyexuzma9.png",FM ONE 103.5
+https://fmone.plathong.net/7010/;stream.mp3
+
+
+#=====================================================================================================================================
+
+#EXTINF:-1 group-title="Radio" tvg-logo="http://radio.siamha.com/logo/1065.png",Green Wave
+https://atimeonline.smartclick.co.th/green
+
+#EXTINF:-1 group-title="Radio" tvg-logo="http://radio.siamha.com/logo/1065.png",Green Wave
+http://real3.atimemedia.com/live/green.sdp/chunklist_w768368464.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="http://radio.siamha.com/logo/1065.png",Green Wave
+https://real5.atimemedia.com/live/green.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-20-062604.jpg",Greenwave
+https://atimevideo.smartclick.co.th/live/greenlive.sdp/playlist.m3u8
+
+#=====================================================================================================================================
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://uppic.cc/d/yw71",EFM
+https://atimevideo.smartclick.co.th/live/efmlive.sdp/chunklist_w1216683333.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://uppic.cc/d/yw71",EFM
+https://atimeonline.smartclick.co.th/efm
+
+
+#=====================================================================================================================================
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/evaz3k7Nkm.png",Radio Thailand 105 FM
+http://prdonline.prd.go.th:8210/;
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/eazy-fm.png",EAZY FM 105.5
+https://wzedge1.becteroradio.com/Eazy/Eazy-Listen-Med/playlist.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/eazy-fm.png",EAZY FM 105.5
+https://wzedge1.becteroradio.com/Eazy/Eazy-Listen-High/chunklist_w1159801034.m3u8
+
+
+
+#=====================================================================================================================================
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://uppic.cc/d/yw72",FM One
+https://fmone.plathong.net/7010/;stream.mp3
+
+
+
+#=====================================================================================================================================
+
+
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/met.png",MET 107
+https://mcotdigital-w9rpgl.cdn.byteark.com/radiocdn_edge/fm107.stream_aac/chunklist_w136409516.m3u8
+
+
+#=====================================================================================================================================
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://uppic.cc/d/yxnY",BIG FM
+https://cdn-th.login.in.th/bigfm/bigfm/chunklist_w1948352313.m3u8
+
+
+#=====================================================================================================================================
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/fung-fung-fung.png",FUNG X 3
+http://link2.onair.network:8006/stream/1/
+
+
+
+#=====================================================================================================================================
+
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://img.youtube.com/vi/9ryd1wPtxaE/0.jpg",CAT RADIO
+http://111.223.37.195/CatRadio/CatRadio-High/chunklist_w913767954.m3u8
+
+
+
+#=====================================================================================================================================
+
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://listen.becteroradio.com/2014/images/logo-radradio.png",RAD Radio
+https://wzorigin.becteroradio.com/Rad/Rad-Listen-Med/chunklist.m3u8
+
+
+
+#=====================================================================================================================================
+
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://listen.becteroradio.com/2014/images/logo-rockonradio.png",ROCK on Radio
+https://wzedge1.becteroradio.com/Rock/Rock-Listen-Med/chunklist.m3u8
+
+
+
+#=====================================================================================================================================
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://listen.becteroradio.com/2014/images/logo-star.png",STAR FM
+https://wzorigin.becteroradio.com/Star/Star-Listen-Med/chunklist.m3u8
+
+
+
+#=====================================================================================================================================
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://listen.becteroradio.com/2014/images/logo-tofupopradio.png",TOFU POP RADIO
+https://wzedge1.becteroradio.com/Tofu/Tofu-Listen-Med/chunklist.m3u8
+
+
+#=====================================================================================================================================
+
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-25-025822.jpg",LUKTUNG NETWORK
+http://media.login.in.th:8200/;stream.mp3
+
+
+
+#=====================================================================================================================================
+
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://uppic.cc/d/yx1r",NEW SONGS
+http://112.121.150.133:8020/stream
+
+
+#=====================================================================================================================================
+
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-28-123219.jpg",เพื่อชีวิต
+http://27.254.142.208:8300/stream/1/
+
+
+#=====================================================================================================================================
+
+
+

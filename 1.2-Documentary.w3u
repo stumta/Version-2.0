@@ -1,0 +1,308 @@
+
+
+{
+"name": "Documentary",
+"author": "update 1/5/2021",
+"image": "https://www.filmsite.org/images/documentary-genre.jpg",
+"stations":[
+
+
+
+{
+"name": "Discovery Channel",
+"image": "https://i2.wp.com/www.busiweek.com/wp-content/uploads/2018/07/DiscoveryBusinessWeek.png",
+"url": "https://www.we-play.tv/watching/tv/discovery-channel",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Discovery Channel",
+"image": "https://i2.wp.com/www.busiweek.com/wp-content/uploads/2018/07/DiscoveryBusinessWeek.png",
+"url": "http://119.161.100.50:9999/live/test123/test123/455.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Discovery Asia",
+"image": "https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",
+"url": "https://www.we-play.tv/watching/tv/discovery-asia",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Discovery Asia",
+"image": "https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",
+"url": "http://119.161.100.50:9999/live/test123/test123/377.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Discovery Asia",
+"image": "https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",
+"url": "http://191.96.36.150:80/disasia1/kTt9rQXJAu/67",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Crime Investigation",
+"image": "https://static.epg.best/id/CrimeInvestigation.id.png",
+"url": "http://203.154.177.124:8899/live/ch23/chunks.m3u8",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Crime Investigation",
+"image": "https://static.epg.best/id/CrimeInvestigation.id.png",
+"url": "http://61.19.242.134/feed/LC43/index.m3u8",
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "History",
+"image": "http://cms.dmpcdn.com/livetv/2017/10/17/f6168174-fabb-410c-a589-e5c30ff485f3.png",
+"url": "https://www.we-play.tv/watching/tv/history-hd",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "History",
+"image": "http://cms.dmpcdn.com/livetv/2017/10/17/f6168174-fabb-410c-a589-e5c30ff485f3.png",
+"url": "http://119.161.100.50:9999/live/test123/test123/226.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "History",
+"image": "http://cms.dmpcdn.com/livetv/2017/10/17/f6168174-fabb-410c-a589-e5c30ff485f3.png",
+"url": "http://191.96.36.150:80/history1/xtan6dqLeQ/69",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "H2",
+"image": "http://cms.dmpcdn.com/livetv/2017/10/18/64a7b379-e7f9-4a12-b978-08fd58bd8f09.png",
+"url": "https://www.we-play.tv/watching/tv/history-h2",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "H2",
+"image": "http://cms.dmpcdn.com/livetv/2017/10/18/64a7b379-e7f9-4a12-b978-08fd58bd8f09.png",
+"url": "http://119.161.100.50:9999/live/test123/test123/230.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "H2",
+"image": "http://cms.dmpcdn.com/livetv/2017/10/18/64a7b379-e7f9-4a12-b978-08fd58bd8f09.png",
+"url": "http://191.96.36.150:80/h21/5PUyTkxZg7/70",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "National Geographic",
+"image": "https://www.iptv4k.tv/images/tv/X6cS4tqlS0JSLsvzQBd2QExtGzR2T98unnamed.png",
+"url": "https://www.we-play.tv/watching/tv/national-geographic",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "National Geographic",
+"image": "https://www.iptv4k.tv/images/tv/X6cS4tqlS0JSLsvzQBd2QExtGzR2T98unnamed.png",
+"url": "http://191.96.36.150:80/natgeo/7vmmUMW7Qa/82",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Nat Geo Wind",
+"image": "https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",
+"url": "https://www.we-play.tv/watching/tv/nat-geo-wild",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Nat Geo Wind",
+"image": "https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",
+"url": "http://119.161.100.50:9999/live/test123/test123/510.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Nat Geo Wind",
+"image": "https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",
+"url": "http://191.96.36.150:80/natgeowild1/xkjhwkMJ9L/66",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "MySci",
+"image": "https://lh3.googleusercontent.com/proxy/P5fPjLCEj4pqIMKsRtSh3BttdrOHH7mJY3hRZ6TiypsO_J7nYUpeV5mLfKZZWqh7DB73YRMczrGVFJ0TeWUcDZNVyPmsz_qdobuxwqqcPbGn2Ek8EjQKCKFYz81T7lA8nD2fIw",
+"url": "https://boxmovielive.com/live/mysci.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "View World",
+"image": "https://thumbs.dreamstime.com/t/view-world-2907801.jpg",
+"url": "http://119.161.100.50:9999/live/test123/test123/634.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Animal Planet",
+"image": "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",
+"url": "https://www.we-play.tv/watching/tv/animal-planet",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Animal Planet",
+"image": "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",
+"url": "http://119.161.100.50:9999/live/test123/test123/453.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Animal Planet",
+"image": "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",
+"url": "http://191.96.36.150:80/animal1/cZv3wLADzc/71",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Love Nature 4K",
+"image": "https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/12/Love-Nature-4K.jpg",
+"url": "https://www.we-play.tv/watching/tv/lovenature-4k",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Love Nature 4K",
+"image": "https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/12/Love-Nature-4K.jpg",
+"url": "https://sordigitaltv.shortcm.li/LoveNature4K-subthai/sorchelsea.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Love Nature 4K",
+"image": "https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/12/Love-Nature-4K.jpg",
+"url": "http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "TRUE EXPLORE WILD",
+"image": "http://cms.dmpcdn.com/livetv/2018/12/17/4c6e4330-9408-4280-8b5d-7d3b37305ce0.png",
+"url": "https://boxmovie-th.com/app-api-android/true/TRUE-EXPLORE-WILD/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "TRUE EXPLORE LIFE",
+"image": "http://cms.dmpcdn.com/livetv/2018/12/17/9cf5341f-b7c1-475e-8644-1ccb91f0ae2a.png",
+"url": "http://119.161.100.50:9999/live/test123/test123/241.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "TRUE EXPLORE SCI",
+"image": "http://cms.dmpcdn.com/livetv/2018/12/17/76f8506f-b775-4a6f-ba79-752ecb8ee516.png",
+"url": "http://119.161.100.50:9999/live/test123/test123/271.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Samrojlok",
+"image": "https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2017/07/cropped-cropped-Samrulok_logo_on_top_edit.jpg?fit=512%2C512",
+"url": "http://61.19.242.134/feed/LC8/index.m3u8",
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Samrojlok",
+"image": "https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2017/07/cropped-cropped-Samrulok_logo_on_top_edit.jpg?fit=512%2C512",
+"url": "https://cdn6.goprimetime.info/feed/LC8/index.m3u8",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Samrojlok",
+"image": "https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2017/07/cropped-cropped-Samrulok_logo_on_top_edit.jpg?fit=512%2C512",
+"url": "https://cdn6.goprimetime.info/feed/LC8/tracks-v1a1/mono.m3u8",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "BBC EARTH",
+"image": "http://cms.dmpcdn.com/livetv/2019/01/24/dcf08ac0-b368-4991-99ea-e07df194bf63.png",
+"url": "http://191.96.36.150:80/bbcearth/TBJSZSjjZR/64",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "BBC Lifestyle",
+"image": "https://keykingiptv.com/boxtv/movieposters/Movieq6tth_yffguj.jpg",
+"url": "https://dl.dropboxusercontent.com/s/o79pge27vtkfgw3/bbclifestyle.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "PSI",
+"image": "https://sv1.picz.in.th/images/2020/09/26/OPn0AQ.jpg",              
+"url": "http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8",
+"import": false
+},
+
+{
+"name": "PSI",
+"image": "https://sv1.picz.in.th/images/2020/09/26/OPn0AQ.jpg",              
+"url": "http://96.30.124.99:1935/edgepsi/PSIHD.stream_720p/chunklist_w1894808678.m3u8",
+"import": false
+},
+
+{ 
+"name": "Charuan Channel",
+"image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1610295027959_movie_image.jpg",              
+"url": "http://61.19.242.134/feed/LC32/index.m3u8",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+}, 
+
+{ 
+"name": "Charuan 37",
+"image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1614011040225_movie_image.png",              
+"url": "http://www5.cabletv.co.th:80/StreamToCTV/cablechannel/chunklist.m3u8",
+"import": false 
+},
+
+{
+"name": "pet club tv",
+"image": "https://i.vimeocdn.com/video/722791670_640.jpg",
+"url": "https://cdn6.goprimetime.info/feed/LC18/playlist.m3u8",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+
+
+]
+}

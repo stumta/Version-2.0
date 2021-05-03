@@ -1,0 +1,933 @@
+
+
+{
+"name": "Sports",
+"author": "update 1/5/2021",
+"image": "https://i.pinimg.com/originals/df/6b/02/df6b0274ef07c195f32a2a7a7e7556e6.png",
+"stations":[
+
+
+
+{
+"name": "EPL 1-1",
+"image": "https://sv1.picz.in.th/images/2021/01/26/lXCeRV.png",
+"url": "https://doofootball.livestream-cdn.com/iptv/epl-1.stream/chunks.m3u8",
+"referer": "https://www.chomfootball.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EPL 1-2",
+"image": "https://sv1.picz.in.th/images/2021/01/26/lXCeRV.png",
+"url": "https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8",
+"referer": "https://livescorethai.net/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EPL 1-3",
+"image": "https://sv1.picz.in.th/images/2021/01/26/lXCeRV.png",
+"url": "https://www.we-play.tv/watching/tv/true-premier-football-hd-1",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EPL 1-4",
+"image": "https://sv1.picz.in.th/images/2021/01/26/lXCeRV.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-1&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EPL 1-5",
+"image": "https://sv1.picz.in.th/images/2021/01/26/lXCeRV.png",
+"url": "http://191.96.36.150:80/EPL1HD/WwrQejmvnT/81",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EPL 1-6",
+"image": "https://sv1.picz.in.th/images/2021/01/26/lXCeRV.png",
+"url": "https://ball8k.com/m/ch.php?stream=epl1",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EPL 2-1",
+"image": "https://sv1.picz.in.th/images/2021/01/26/lXuZxu.png",
+"url": "https://doofootball.livestream-cdn.com/iptv/epl-2.stream/chunks.m3u8",
+"referer": "https://www.chomfootball.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EPL 2-2",
+"image": "https://sv1.picz.in.th/images/2021/01/26/lXuZxu.png",
+"url": "https://www.we-play.tv/watching/tv/true-premier-football-hd-2",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EPL 2-3",
+"image": "https://sv1.picz.in.th/images/2021/01/26/lXuZxu.png",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=epl2",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EPL 2-4",
+"image": "https://sv1.picz.in.th/images/2021/01/26/lXuZxu.png",
+"url": "http://119.161.100.50:9999/live/test123/test123/2.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EPL 2-5",
+"image": "https://sv1.picz.in.th/images/2021/01/26/lXuZxu.png",
+"url": "https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/tpf2",
+"referer": "https://ballnaka.tv/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Sport HD 1",
+"image": "https://sv1.picz.in.th/images/2021/01/26/lXXCCE.png",
+"url": "https://doofootball.livestream-cdn.com/iptv/hd-tsport1.stream/chunks.m3u8",
+"referer": "https://www.chomfootball.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Sport HD 1-1",
+"image": "https://sv1.picz.in.th/images/2021/01/26/lXXCCE.png",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=truesporthd",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Sport HD 1-2",
+"image": "https://sv1.picz.in.th/images/2021/01/26/lXXCCE.png",
+"url": "https://player.ballnaka.tv/?channel=thd1&cate=sport",
+"referer": "https://ballnaka.tv/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Sport HD 1-3",
+"image": "https://sv1.picz.in.th/images/2021/01/26/lXXCCE.png",
+"url": "http://191.96.36.150:80/truesporthd1/YEbLxj3knB/57",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Sport HD 2-1",
+"image": "https://sv1.picz.in.th/images/2021/01/26/lXXVfn.png",
+"url": "https://doofootball.livestream-cdn.com/iptv/hd-tsport2.stream/chunks.m3u8",
+"referer": "https://www.chomfootball.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Sport HD 2-2",
+"image": "https://sv1.picz.in.th/images/2021/01/26/lXXVfn.png",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=truesporthd2",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Sport HD 2-3",
+"image": "https://sv1.picz.in.th/images/2021/01/26/lXXVfn.png",
+"url": "https://player.ballnaka.tv/?channel=thd2&cate=sport",
+"referer": "https://ballnaka.tv/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Sport HD 3-1",
+"image": "http://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_original.png",
+"url": "https://doofootball.livestream-cdn.com/iptv/hd-tsport3.stream/chunks.m3u8",
+"referer": "https://www.chomfootball.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Sport HD 3-2",
+"image": "http://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_original.png",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=truesporthd3",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Sport HD 3-3",
+"image": "http://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_original.png",
+"url": "https://player.ballnaka.tv/?channel=thd3&cate=sport",
+"referer": "https://ballnaka.tv/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Sport 2-1",
+"image": "https://ball8k.com/stream/img_ch/20210223014333_truesport2.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=truesport2",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Sport 2-2",
+"image": "https://ball8k.com/stream/img_ch/20210223014333_truesport2.jpg",
+"url": "https://player.ballnaka.tv/?channel=tsp2&cate=sport",
+"referer": "https://ballnaka.tv/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Sport 2-3",
+"image": "https://ball8k.com/stream/img_ch/20210223014333_truesport2.jpg",
+"url": "https://player.we-play.tv/channel.php?name=tsp2&cate=sports",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Sport 5-1",
+"image": "https://ball8k.com/stream/img_ch/20210223014353_truesport5.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=truesport5",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Sport 5-2",
+"image": "https://ball8k.com/stream/img_ch/20210223014353_truesport5.jpg",
+"url": "https://player.ballnaka.tv/?channel=tsp5&cate=sport",
+"referer": "https://ballnaka.tv/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Sport 5-3",
+"image": "https://ball8k.com/stream/img_ch/20210223014353_truesport5.jpg",
+"url": "https://player.we-play.tv/channel.php?name=tsp5&cate=sports",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Sport 6-1",
+"image": "https://ball8k.com/stream/img_ch/20210223014403_truesport6.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=truesport6",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Sport 6-2",
+"image": "https://ball8k.com/stream/img_ch/20210223014403_truesport6.jpg",
+"url": "https://player.ballnaka.tv/?channel=tsp6&cate=sport",
+"referer": "https://ballnaka.tv/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Sport 6-3",
+"image": "https://ball8k.com/stream/img_ch/20210223014403_truesport6.jpg",
+"url": "https://www.we-play.tv/watching/tv/true-sports-6",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Sport 7-1",
+"image": "https://ball8k.com/stream/img_ch/20210223014414_truesport7.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=truesport7",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Sport 7-2",
+"image": "https://ball8k.com/stream/img_ch/20210223014414_truesport7.jpg",
+"url": "https://player.ballnaka.tv/?channel=tsp7&cate=sport",
+"referer": "https://ballnaka.tv/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Sport 7-3",
+"image": "https://ball8k.com/stream/img_ch/20210223014414_truesport7.jpg",
+"url": "https://www.we-play.tv/watching/tv/true-sports-7",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Tennis",
+"image": "https://ballnaka.tv/images/tv/truetennis.webp",
+"url": "https://player.ballnaka.tv/?channel=tennis&cate=sport",
+"referer": "https://ballnaka.tv/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Tennis",
+"image": "https://ballnaka.tv/images/tv/truetennis.webp",
+"url": "https://www.we-play.tv/watching/tv/true-tennis",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Tennis+",
+"image": "https://sv1.picz.in.th/images/2020/06/17/qeqCdP.png",
+"url": "https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Tennis Channel",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKNeW80645b2R-sKWgOyTPQT4-mxLaDsVIngk7axfRj5lGNFhx&usqp=CAU",
+"url": "https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "NBA TV",
+"image": "https://ball8k.com/stream/img_ch/20200923170904_truenba.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=truenba",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "NBA TV",
+"image": "https://ball8k.com/stream/img_ch/20200923170904_truenba.jpg",
+"url": "https://player.ballnaka.tv/?channel=nba&cate=sport",
+"referer": "https://ballnaka.tv/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "NBA TV",
+"image": "https://ball8k.com/stream/img_ch/20200923170904_truenba.jpg",
+"url": "https://www.we-play.tv/watching/tv/nba-tv",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "canal+ Sport",
+"image": "https://static.epg.best/pl/CanalPlusSport.pl.png",
+"url": "http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Golf Channel",
+"image": "https://ballnaka.tv/images/tv/golfchannel.webp",
+"url": "https://player.ballnaka.tv/?channel=golf&cate=sport",
+"referer": "https://ballnaka.tv/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Golf Channel",
+"image": "https://ballnaka.tv/images/tv/golfchannel.webp",
+"url": "https://www.we-play.tv/watching/tv/golf-channel-thailand-hd2",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Bein Sport 1",
+"image": "https://ball8k.com/stream/img_ch/20210219100833_bein1.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=bein1",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Bein Sport 1",
+"image": "https://ball8k.com/stream/img_ch/20210219100833_bein1.jpg",
+"url": "https://player.ballnaka.tv/?channel=bein1&cate=sport",
+"referer": "https://ballnaka.tv/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Bein Sport 1",
+"image": "https://ball8k.com/stream/img_ch/20210219100833_bein1.jpg",
+"url": "https://www.we-play.tv/watching/tv/bein-sports-1",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Bein Sport 1",
+"image": "https://ball8k.com/stream/img_ch/20210219100833_bein1.jpg",            
+"url": "https://live.andaman888th.com/live/beinsport1/sport/bein1/chunks.m3u8",
+"referer": "https://www.andaman888th.com/"
+},
+
+{
+"name": "Bein Sport 2",
+"image": "https://ball8k.com/stream/img_ch/20210219100844_bein2.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=bein2",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Bein Sport 2",
+"image": "https://ball8k.com/stream/img_ch/20210219100844_bein2.jpg",
+"url": "https://player.ballnaka.tv/?channel=bein2&cate=sport",
+"referer": "https://ballnaka.tv/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Bein Sport 2",
+"image": "https://ball8k.com/stream/img_ch/20210219100844_bein2.jpg",
+"url": "https://www.we-play.tv/watching/tv/bein-sports-2",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Bein Sport 2",
+"image": "https://ball8k.com/stream/img_ch/20210219100844_bein2.jpg",
+"url": "https://live.andaman888th.com/live/beinsport2/sport/bein2/chunks.m3u8",
+"referer": "https://www.andaman888th.com",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "BT Sport 1",
+"image": "https://ball8k.com/stream/img_ch/20210219104634_btsport1.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=btsport1",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "BT Sport 1",
+"image": "https://ball8k.com/stream/img_ch/20210219104634_btsport1.jpg",
+"url": "https://www.we-play.tv/watching/tv/bt-sport-1-hd",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "BT Sport 1",
+"image": "https://ball8k.com/stream/img_ch/20210219104634_btsport1.jpg",
+"url": "https://www.doofootball.com/live/streaming/btsport1/650726",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "BT Sport 2",
+"image": "https://ball8k.com/stream/img_ch/20210219104909_btsport2.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=btsport2",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "BT Sport 2",
+"image": "https://ball8k.com/stream/img_ch/20210219104909_btsport2.jpg",
+"url": "https://www.we-play.tv/watching/tv/bt-sport-2-hd",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "BT Sport 2",
+"image": "https://ball8k.com/stream/img_ch/20210219104909_btsport2.jpg",
+"url": "https://www.doofootball.com/live/streaming/btsport2/678414",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "BT Sport 3",
+"image": "https://ball8k.com/stream/img_ch/20210219105026_btsport3.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=btsport3",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "BT Sport 3",
+"image": "https://ball8k.com/stream/img_ch/20210219105026_btsport3.jpg",
+"url": "https://www.we-play.tv/watching/tv/bt-sport-3-hd",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Fox Sport 1",
+"image": "https://ball8k.com/stream/img_ch/20210414193800_foxsport1.png",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=foxsport1",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Fox Sport 1",
+"image": "https://ball8k.com/stream/img_ch/20210414193800_foxsport1.png",
+"url": "https://player.ballnaka.tv/?channel=fox1&cate=sport",
+"referer": "https://ballnaka.tv/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Fox Sport 1",
+"image": "https://ball8k.com/stream/img_ch/20210414193800_foxsport1.png",
+"url": "https://www.we-play.tv/watching/tv/fox-sports-1-netherland",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Fox Sport 2",
+"image": "https://ball8k.com/stream/img_ch/20210414193826_foxsport2.png",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=foxsport2",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Fox Sport 2",
+"image": "https://ball8k.com/stream/img_ch/20210414193826_foxsport2.png",
+"url": "https://player.ballnaka.tv/?channel=fox2&cate=sport",
+"referer": "https://ballnaka.tv/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Fox Sport 2",
+"image": "https://ball8k.com/stream/img_ch/20210414193826_foxsport2.png",
+"url": "https://www.we-play.tv/watching/tv/fox-sports-2-netherland",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Fox Sport 3",
+"image": "https://ball8k.com/stream/img_ch/20210414193837_foxsport3.png",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=foxsport3",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Fox Sport 3",
+"image": "https://ball8k.com/stream/img_ch/20210414193837_foxsport3.png",
+"url": "https://player.ballnaka.tv/?channel=fox3&cate=sport",
+"referer": "https://ballnaka.tv/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Fox Sport 3",
+"image": "https://ball8k.com/stream/img_ch/20210414193837_foxsport3.png",
+"url": "https://www.we-play.tv/watching/tv/fox-sports-3-netherland",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "NFL Network",
+"image": "https://ballnaka.tv/images/tv/nfl-network.webp",
+"url": "https://player.ballnaka.tv/?channel=nfl&cate=sport",
+"referer": "https://ballnaka.tv/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Digi Sport 1",
+"image": "https://ball8k.com/stream/img_ch/20200923165715_digisport1romania.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=digisport1romania",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Digi Sport 2",
+"image": "https://ball8k.com/stream/img_ch/20200923165720_digisport2romania.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=digisport2romania",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Digi Sport 3",
+"image": "https://ball8k.com/stream/img_ch/20210220062823_digisport3romania.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=digisport3romania",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Digi Sport 4",
+"image": "https://ball8k.com/stream/img_ch/20210220062844_digisport4romania.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=digisport4romania",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Tsports",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0352.png",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=tsports",
+"referer" :"https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "hisport",
+"image": "https://www.matichon.co.th/wp-content/uploads/2017/06/%E0%B8%8A%E0%B8%99%E0%B9%82%E0%B8%84.jpg",
+"url": "http://203.154.243.31:8081/live/hisport/index.m3u8",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Arena Sport 1",
+"image": "https://ball8k.com/stream/img_ch/20210222232041_arenasport1serbia.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=arenasport1serbia",
+"referer" :"https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Arena Sport 2",
+"image": "https://ball8k.com/stream/img_ch/20210222232135_arenasport2serbia.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=arenasport2serbia",
+"referer" :"https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Arena Sport 3",
+"image": "https://ball8k.com/stream/img_ch/20210222232129_arenasport3serbia.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=arenasport3serbia",
+"referer" :"https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Arena Sport 4",
+"image": "https://ball8k.com/stream/img_ch/20210222232141_arenasport4serbia.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=arenasport4serbia",
+"referer" :"https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Skysport Premire",
+"image": "https://ball8k.com/stream/img_ch/20210222222521_skysportpremiere.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=skysportpremiere",
+"referer" :"https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Skysport Premire",
+"image": "https://ball8k.com/stream/img_ch/20210222222521_skysportpremiere.jpg",
+"url": "https://www.doofootball.com/live/streaming/skysportpremiere/650696",
+"referer" :"https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Skysport Football",
+"image": "https://ball8k.com/stream/img_ch/20210222222431_skysportfootball.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=skysportfootball",
+"referer" :"https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Skysport Main Event",
+"image": "https://ball8k.com/stream/img_ch/20210222222500_skysportmainevent.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=skysportmainevent",
+"referer" :"https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Skysport Arena",
+"image": "https://ball8k.com/stream/img_ch/20210222222327_skysportarena.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=skysportarena",
+"referer" :"https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Sport TV 1",
+"image": "https://ball8k.com/stream/img_ch/20210222095258_sporttv1.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=sporttv1",
+"referer" :"https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Sport TV 1",
+"image": "https://ball8k.com/stream/img_ch/20210222095258_sporttv1.jpg",
+"url": "https://www.we-play.tv/watching/tv/sport-tv-1",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Sport TV 2",
+"image": "https://ball8k.com/stream/img_ch/20210222095338_sporttv2.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=sporttv2",
+"referer" :"https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Sport TV 2",
+"image": "https://ball8k.com/stream/img_ch/20210222095338_sporttv2.jpg",
+"url": "https://www.we-play.tv/watching/tv/sport-tv-2",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Sport TV 3",
+"image": "https://ball8k.com/stream/img_ch/20210222095347_sporttv3.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=sporttv3",
+"referer" :"https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Sport TV 3",
+"image": "https://ball8k.com/stream/img_ch/20210222095347_sporttv3.jpg",
+"url": "https://www.we-play.tv/watching/tv/sport-tv-3",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Sport TV 4",
+"image": "https://ball8k.com/stream/img_ch/20210222095401_sporttv4.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=sporttv4",
+"referer" :"https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Sport TV 4",
+"image": "https://ball8k.com/stream/img_ch/20210222095401_sporttv4.jpg",
+"url": "https://www.we-play.tv/watching/tv/sport-tv-4",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Ziggo Sport Select",
+"image": "https://ball8k.com/stream/img_ch/20210223025645_ziggosportselect.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=ziggosportselect",
+"referer" :"https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Ziggo Sport Select",
+"image": "https://ball8k.com/stream/img_ch/20210223025645_ziggosportselect.jpg",
+"url": "https://www.doofootball.com/live/streaming/ziggosportselect/650696",
+"referer" :"https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Ziggo Sport Voetball",
+"image": "https://ball8k.com/stream/img_ch/20210223025456_ziggosportvoetbal.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=ziggosportvoetbal",
+"referer" :"https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Ziggo Sport Voetball",
+"image": "https://ball8k.com/stream/img_ch/20210223025456_ziggosportvoetbal.jpg",
+"url": "https://www.doofootball.com/live/streaming/ziggosportvoetbal/650696",
+"referer" :"https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "SK 1",
+"image": "https://ball8k.com/stream/img_ch/20210222225448_sportklub1slovenia.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=sportklub1slovenia",
+"referer" :"https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+
+{
+"name": "SK 2",
+"image": "https://ball8k.com/stream/img_ch/20210222225500_sportklub2slovenia.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=sportklub2slovenia",
+"referer" :"https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "SK 3",
+"image": "https://ball8k.com/stream/img_ch/20210222225520_sportklub3slovenia.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=sportklub3slovenia",
+"referer" :"https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "SK 4",
+"image": "https://ball8k.com/stream/img_ch/20210222225529_sportklub4slovenia.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=sportklub4slovenia",
+"referer" :"https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "C More Football",
+"image": "https://ball8k.com/stream/img_ch/20210219221546_cmorefootball.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=cmorefootball",
+"referer" :"https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "C More Live",
+"image": "https://ball8k.com/stream/img_ch/20210219222716_cmorelivehd.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=cmorelivehd",
+"referer" :"https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Eleven Sport 1",
+"image": "https://www.thesportsdb.com/images/media/logo/Eleven_Sports_1_Belgium.png",
+"url": "http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Eleven Sport 2",
+"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_2.jpg",
+"url": "http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "World WTB",
+"image": "https://uspto.report/TM/73456338/mark.png",
+"url": "http://203.154.243.32:8088/live/wtb/index.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Skynet Sport HD",
+"image": "https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynethd.png",
+"url": "http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Skynet Sport 1",
+"image": "https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynethd.png",
+"url": "http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Skynet Sport 2",
+"image": "https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynethd.png",
+"url": "http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Skynet Sport 3",
+"image": "https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynethd.png",
+"url": "http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Skynet Sport 4",
+"image": "https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynethd.png",
+"url": "http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Skynet Sport 5",
+"image": "https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynethd.png",
+"url": "http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Skynet Sport 6",
+"image": "https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynethd.png",
+"url": "http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Astro Sport 1",
+"image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",
+"url": "https://www.doofootball.com/live/streaming/astrosupersport/650699",
+"referer" :"https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Astro Sport 2",
+"image": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/832_300.png",
+"url": "https://www.doofootball.com/live/streaming/astrosupersport2/678414",
+"referer" :"https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Astro Sport 3",
+"image": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png",
+"url": "https://www.doofootball.com/live/streaming/astrosupersport3/650696",
+"referer" :"https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Astro Sport 4",
+"image": "https://www.thesportsdb.com/images/media/logo/dtqhym1572377012.png",
+"url": "https://www.doofootball.com/live/streaming/astrosupersport4/646599",
+"referer" :"https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "world snooker",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZPyYGrBe35ByJ4RP9D2mtCPuZul_cLltBA&usqp=CAU",
+"url": "http://916309128f3e.sn.mynetname.net:1935/aslive/supersport3/chunklist.m3u8",
+"playInNatPlayer": "true"
+},
+
+]
+}
