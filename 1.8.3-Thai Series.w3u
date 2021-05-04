@@ -1,0 +1,41 @@
+{
+	"name": "1.8.3-Thai Series",
+	"author": "Version 2.0 02 May 2021",
+	"image": "https://www.thailanguagehut.com/wp-content/uploads/2010/04/flag-250.jpg",
+	"url": "",
+	"groups": [
+	
+				{
+					"name": "1.8.3.01-Wantong",
+					"image": "https://f.ptcdn.info/739/072/000/qpeeem6jkiugP1Bqij8z-o.gif",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.15-Wantong.m3u",
+					"import": false
+				},
+								
+				{
+					"name": "1.8.3.02-Sri Ayodhaya SS-1",
+					"image": "https://cdn-img.movieclub.tv/img_series_vertical/dd817d34eaa9f10ff01847d4b1ef3a12.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.13-Sri%20Ayodhaya%20SS-1.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.3.03-Sri Ayodhaya SS-2",
+					"image": "https://i.ytimg.com/vi/x0Bzh6p0sQ4/maxresdefault.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.14-Sri%20Ayodhaya%20SS-2.m3u",
+					"import": false
+				},
+
+              
+				
+    					
+			]	
+				
+		},
+
+				
+			]
+			
+		
+    ]
+}
