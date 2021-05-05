@@ -110,7 +110,6 @@
 "name": "12-DLTV",
 "author": "JeaBmAd-Version 2.0 02 May 2021",
 "image": "https://www.dltv.ac.th/themes/default/assets/images/dltv-main-logo.png",
-"imageScale": "centerCrop",
 "url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/12-DLTV.m3u",
 "import": false
 },
