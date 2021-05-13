@@ -1,0 +1,85 @@
+{
+	"name": "1.8.1-Chinese Series",
+	"author": "Version 2.0 02 May 2021",
+	"image": "https://ak.picdn.net/shutterstock/videos/1024128503/thumb/1.jpg",
+	"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.1-Chinese%20Series.w3u",
+	"groups": [
+	
+
+		
+				{
+					"name": "1.8.1.01-Legend of Fei",
+					"image": "https://www.dooseries.tv/images/movie/80d4d814f70fbd7a0f99dd307b7abc64.webp",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.06-Legend%20of%20Fei.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.1.02-The Wolf",
+					"image": "https://s359.kapook.com/pagebuilder/d50da52e-015e-4373-8760-4b2ee2cb764d.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.07-The%20Wolf.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.1.03-Heavenly Sword",
+					"image": "https://www.jomyut.club/wp-content/uploads/2019/03/0019.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.08-Heavenly%20Sword.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.1.04-The Taoism Grandmaster",
+					"image": "https://i.ytimg.com/vi/lrYe4Ce49NY/maxresdefault.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.09-The%20Taoism%20Grandmaster.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.1.05-Fights Break Sphere",
+					"image": "https://www.metalbridges.com/wp-content/uploads/2020/07/FightsBreakSphere-11.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.10-Fights%20Break%20Sphere.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.1.06-The Blessed Girl",
+					"image": "https://mpics.mgronline.com/pics/Images/564000001117601.JPEG",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.11-The%20Blessed%20Girl.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.1.07-Under Power",
+					"image": "https://s.isanook.com/mv/0/ui/19/96169/1_1584007394.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.12-Under%20Power.m3u",
+					"import": false
+				},
+				
+	
+				{
+					"name": "1.8.1.08-Zhong Kui",
+					"image": "https://pbs.twimg.com/media/EH9f-3LU0AAYV4O.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.16-Demon%20Catcher%20Zhong%20Kui%202018.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.1.09-The Untamed  ปรมาจารย์ลัทธิมาร",
+					"image": "https://f.ptcdn.info/587/066/000/pzxtl0imqiRuTu791JL-o.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.1.09-The%20Untamed.m3u",
+					"import": false
+				},
+				
+							
+     					
+			]	
+				
+		},
+
+				
+			]
+			
+		
+    ]
+}
