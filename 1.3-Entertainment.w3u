@@ -1,0 +1,1158 @@
+
+
+{
+"name": "Entertainment",
+"author": "update 1/5/2021",
+"image": "https://d8xxy3dl0iwm6.cloudfront.net/wp-content/uploads/2016/12/Open_true2.png",
+"stations":[
+
+
+
+{
+"name": "HBO",
+"image": "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",
+"url": "https://www.we-play.tv/watching/tv/hbo-hd",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "HBO",
+"image": "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",
+"url": "http://dogtoop.com:8443/hbo/G5kF4tBb3g/26",
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "HBO",
+"image": "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",
+"url": "https://mediasv.online/tvchannel_x1/hd-hbo-thai/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIxIDk6MzM6NDYgQU0maGFzaF92YWx1ZT1ZdGZyS3F3RlN2a01aelJ2MUNaRm93PT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTI0JmlkPWNoXzI2MTA1",
+"playInNatPlayer": "true"
+},
+
+
+
+{
+"name": "HBO Hits",
+"image": "https://www.we-play.tv//uploads/posters/hbo-hits-poster1602801795.jpeg",
+"url": "https://www.we-play.tv/watching/tv/hbo-hits",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "HBO Hits",
+"image": "https://www.we-play.tv//uploads/posters/hbo-hits-poster1602801795.jpeg",
+"url": "https://boxmovielive.com/live/hbohis.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "HBO Signature",
+"image": "https://www.we-play.tv//uploads/posters/hbo-signature-poster1602801828.jpeg",
+"url": "https://www.we-play.tv/watching/tv/hbo-signature",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "HBO Signature",
+"image": "https://www.we-play.tv//uploads/posters/hbo-signature-poster1602801828.jpeg",
+"url": "http://119.161.100.50:9999/live/test123/test123/513.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "HBO Family",
+"image": "https://www.we-play.tv//uploads/posters/hbo-family-poster1602801724.jpeg",
+"url": "https://www.we-play.tv/watching/tv/hbo-family",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "HBO Family",
+"image": "https://www.we-play.tv//uploads/posters/hbo-family-poster1602801724.jpeg",
+"url": "http://119.161.100.50:9999/live/test123/test123/515.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Red by HBO",
+"image": "https://www.we-play.tv//uploads/posters/red-by-hbo-poster1602801864.jpeg",
+"url": "https://www.we-play.tv/watching/tv/red-by-hbo",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Red by HBO",
+"image": "https://www.we-play.tv//uploads/posters/red-by-hbo-poster1602801864.jpeg",
+"url": "http://119.161.100.50:9999/live/test123/test123/516.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Red by HBO",
+"image": "https://www.we-play.tv//uploads/posters/red-by-hbo-poster1602801864.jpeg",
+"url": "https://boxmovielive.com/live/red.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Cinemx",
+"image": "https://www.we-play.tv//uploads/posters/cinemax-poster1602801656.jpeg",
+"url": "https://www.we-play.tv/watching/tv/cinemax",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Cinemax TH",
+"image": "https://www.we-play.tv//uploads/posters/cinemax-poster1602801656.jpeg",
+"url": "http://dogtoop.com:8443/cinemax/U4Jucs5sFH/86",
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Fox Movie",
+"image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",
+"url": "https://www.we-play.tv/watching/tv/fox-movies",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Fox Movie",
+"image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",
+"url": "http://ip2121.com:8081/live2/foxprem/chunks.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Fox Movie TH",
+"image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",
+"url": "http://dogtoop.com:8443/foxmoviesTH/paW4rse5vK/23",
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Fox Action",
+"image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",
+"url": "https://fo1iptv.com/tv-player/fox-action-movies.html",
+"referer": "https://fo1iptv.com/",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Fox Action",
+"image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",
+"url": "https://www.we-play.tv/watching/tv/fox-action-movies",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Fox Action TH",
+"image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",
+"url": "http://dogtoop.com:8443/foxacTH/s65DYdR3rZ/24",
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Fox Family",
+"image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",
+"url": "https://www.we-play.tv/watching/tv/fox-family-movies",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Fox Family",
+"image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",
+"url": "https://boxmovielive.com/live/fam1.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Fox Life",
+"image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",
+"url": "https://fo1iptv.com/tv-player/fox-life-hd.html",
+"referer": "https://fo1iptv.com/",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Fox Life",
+"image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",
+"url": "https://www.we-play.tv/watching/tv/fox-life",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Fox Life",
+"image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",
+"url": "http://916309128f3e.sn.mynetname.net:1935/aslive/foxlife/chunklist.m3u8",
+"playInNatPlayer": "true"
+},
+
+
+{
+"name": "Life Time",
+"image": "https://wacth.officebk.co/uploads/tv_image/lifetime.png",
+"url": "https://mediasv.online/tvchannel_x2/lifetime/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIxIDk6MjM6MzggQU0maGFzaF92YWx1ZT1jUFdSajc3WGE1MkpXbjYrRlRQZGRBPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTIxJmlkPWNoXzc4NjM0",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Fox Thai",
+"image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",
+"url": "https://fo1iptv.com/tv-player/fox-thai.html",
+"referer": "https://fo1iptv.com/",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Fox Thai",
+"image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",
+"url": "https://www.we-play.tv/watching/tv/fox-thai",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "FOXCRIME",
+"image": "https://i.pinimg.com/originals/3e/1e/e6/3e1ee6a0fb1bb1859a462a15ca4ecd12.png",
+"url": "http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "HITS",
+"image": "https://www.hitstv.com/img/hits-movies-logo.png",
+"url": "https://www.we-play.tv/watching/tv/hits",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "HITS",
+"image": "https://www.hitstv.com/img/hits-movies-logo.png",
+"url": "https://fo1iptv.com/tv-player/hits.html",
+"referer": "https://fo1iptv.com/",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "HITS",
+"image": "https://www.hitstv.com/img/hits-movies-logo.png",
+"url": "http://dogtoop.com:8443/hismovie/uJ8XvYkUv4/107",
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "HITS MOVIES",
+"image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2tnmvwofitgks8kow4.png",
+"url": "https://www.we-play.tv/watching/tv/hits-movies",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "HITS MOVIES",
+"image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2tnmvwofitgks8kow4.png",
+"url": "http://dogtoop.com:8443/hismovie/uJ8XvYkUv4/107",
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Warner TV",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",
+"url": "http://203.154.177.124:8899/live/ch12/chunks.m3u8",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Warner TV",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",
+"url": "https://cdn7.goprimetime.info/feed/LC28/playlist.m3u8",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Warner TV",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",
+"url": "https://www.we-play.tv/watching/tv/warner-tv",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Paramont",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",
+"url": "https://fo1iptv.com/tv-player/paramount.html",
+"referer": "https://fo1iptv.com/",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Paramont",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",
+"url": "https://www.we-play.tv/watching/tv/paramount-channel",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Paramont",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",
+"url": "http://dogtoop.com:8443/paramount/BKJN3mPWU4/109",
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "AXN",
+"image": "https://www.iptv4k.tv/images/tv/GtRCensm28TvS3GkSFw3QyzgFqJft1vhd-axn.png",
+"url": "https://mediasv.online/tvchannel_x1/hd-axn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIxIDk6MTU6MzEgQU0maGFzaF92YWx1ZT1YMzhrdW10TG1SUC9zQ3ZjWDREbm5nPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTE5JmlkPWNoXzU2NzU2",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "AXN",
+"image": "https://www.iptv4k.tv/images/tv/GtRCensm28TvS3GkSFw3QyzgFqJft1vhd-axn.png",
+"url": "http://ip2121.com:8081/live/AXN_Y/chunks.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "AXN",
+"image": "https://www.iptv4k.tv/images/tv/GtRCensm28TvS3GkSFw3QyzgFqJft1vhd-axn.png",
+"url": "http://dogtoop.com:8443/axn/73daA4t9bm/110",
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "BlueAntEntertainment",
+"image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",
+"url": "https://fo1iptv.com/tv-player/blue-ant-entertainment.html",
+"referer": "https://fo1iptv.com/",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "BlueAntEntertainment",
+"image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",
+"url": "https://www.we-play.tv/watching/tv/blueant-entertainment",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "BlueAntEntertainment",
+"image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",              
+"url": "https://dogtoop.com:8443/blueant/Hdmnfn8HEx/104",
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "BlueAntEntertainment",
+"image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",
+"url": "http://45.126.83.51/dr9445/h/h16/01.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "BlueAntExtrem",
+"image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",              
+"url": "https://player.we-play.tv/channel.php?name=blue-ext&cate=entertainment",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "BlueAntExtrem",
+"image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",              
+"url": "https://livecdn.fptplay.net/hda/blueantext_hls.smil/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Film HD",
+"image": "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png", 
+"url": "https://fo1iptv.com/tv-player/true-film-hd.html",
+"referer": "https://fo1iptv.com/",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Film HD",
+"image": "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",              
+"url": "https://www.we-play.tv/watching/tv/true-film-hd",
+"referer": "https://player.we-play.tv",
+"import": false
+},
+
+{
+"name": "True Film HD",
+"image": "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",              
+"url": "http://dogtoop.com:8443/filmhd/cadgGq6BYq/100",
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"import": false
+},
+
+{
+"name": "True Film HD 2",
+"image": "http://cms.dmpcdn.com/livetv/2017/10/18/f3415f3e-cefd-488c-a3af-c1cca0b2cdb5.png", 
+"url": "https://fo1iptv.com/tv-player/true-film-hd2.html",
+"referer": "https://fo1iptv.com/",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Film HD 2",
+"image": "http://cms.dmpcdn.com/livetv/2017/10/18/f3415f3e-cefd-488c-a3af-c1cca0b2cdb5.png",              
+"url": "http://dogtoop.com:8443/filmhd2/d5F7tCKBTZ/102",
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"import": false
+},
+
+{ 
+"name": "True Asian Series",
+"image": "http://cms.dmpcdn.com/livetv/2019/12/17/6d717a60-2099-11ea-aaf2-eb7e2dada444_original.png",              
+"url": "https://www.we-play.tv/watching/tv/true-asian-series-hd",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+}, 
+
+{
+"name": "True Asian Series",
+"image": "http://cms.dmpcdn.com/livetv/2019/12/17/6d717a60-2099-11ea-aaf2-eb7e2dada444_original.png",
+"url": "https://fo1iptv.com/tv-player/asian-series.html",
+"referer": "https://fo1iptv.com/",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "True Asian Series",
+"image": "http://cms.dmpcdn.com/livetv/2019/12/17/6d717a60-2099-11ea-aaf2-eb7e2dada444_original.png",              
+"url": "http://dogtoop.com:8443/trueasiaseries/XsPL7psbLC/96",
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Thai Film",
+"image": "http://cms.dmpcdn.com/livetv/2018/12/17/6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png",
+"url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/607.ts",
+"userAgent": "ExoMedia 4.3.0 (43000)",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Thai Film",
+"image": "http://cms.dmpcdn.com/livetv/2018/12/17/6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png",              
+"url": "https://dogtoop.com:8443/thaifilm/3ZMtErVMK4/99",
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "TRUE MOVIE HITS",
+"image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",
+"url": "https://fo1iptv.com/tv-player/movie-hits.html",
+"referer": "https://fo1iptv.com/",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "TRUE MOVIE HITS",
+"image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",
+"url": "https://www.we-play.tv/watching/tv/true-movie-hits",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "TRUE MOVIE HITS",
+"image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",
+"url": "https://cdn-edge-sg2.idoohd.com/play/7fc75617eca936c7d037aa5d5075eb32/be3379b6e647dd14461d222d46e93be1/1619889598/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "TRUE Series",
+"image": "http://cms.dmpcdn.com/livetv/2019/04/23/1a68ad25-63bd-46db-af4d-774a774508cc_original.png",
+"url": "https://fo1iptv.com/tv-player/true-series.html",
+"referer": "https://fo1iptv.com/",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "TRUE Series",
+"image": "http://cms.dmpcdn.com/livetv/2019/04/23/1a68ad25-63bd-46db-af4d-774a774508cc_original.png",
+"url": "http://119.161.100.50:9999/live/test123/test123/220.m3u8",
+"userAgent": "ExoMedia 4.3.0 (43000)",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "TRUE INSIDE HD",
+"image": "https://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",
+"url": "https://tv.trueid.net/embed/true-inside-hd?autoplay=yes&nopageview=yes",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "TRUE Inslde",
+"image": "https://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",
+"url": "https://boxmovie-th.com/app-api-android/true/True-Inside-HD/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Star Chinese Movies",
+"image": "https://www.iptv4k.tv/images/tv/FQEU6j30mOVSVCTtIymTD1Xbrg39ffHstarchinesemovies_1.jpg",              
+"url": "https://www.we-play.tv/watching/tv/star-chinese-movies",
+"referer": "https://player.we-play.tv",
+"import": false 
+},
+
+{ 
+"name": "Star Chinese Movies",
+"image": "https://www.iptv4k.tv/images/tv/FQEU6j30mOVSVCTtIymTD1Xbrg39ffHstarchinesemovies_1.jpg",              
+"url": "http://119.161.100.50:9999/live/test123/test123/521.m3u8",
+"import": false 
+},
+
+{
+"name": "Waku Waku Japan",
+"image": "https://www.iptv4k.tv/images/tv/dKYz529AsphKvxg2u9ZSkWNV2x8lrPDwakuwaku.png",
+"url": "https://fo1iptv.com/tv-player/wakuwaku-japan.html",
+"referer": "https://fo1iptv.com/",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Waku Waku Japan",
+"image": "https://www.iptv4k.tv/images/tv/dKYz529AsphKvxg2u9ZSkWNV2x8lrPDwakuwaku.png",
+"url": "https://www.we-play.tv/watching/tv/waku-waku-japan",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Waku Waku Japan",
+"image": "https://www.iptv4k.tv/images/tv/dKYz529AsphKvxg2u9ZSkWNV2x8lrPDwakuwaku.png",
+"url": "https://dogtoop.com:8443/waku/RUhc9rnDea/80",
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "tvN",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0127.png",
+"url": "https://fo1iptv.com/tv-player/tvn-hd.html",
+"referer": "https://fo1iptv.com/",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "tvN",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0127.png",
+"url": "http://dogtoop.com:8443/tvnhd/r9B3Bpzj86/97",
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True X-Zyte",
+"image": "http://cms.dmpcdn.com/livetv/2018/12/17/05979f77-0c03-4f14-8d5a-bfc0c6675626.png",
+"url": "https://mediasv.online/tvchannel_x1/xzyte/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIxIDk6MzM6MDQgQU0maGFzaF92YWx1ZT1TWmJ5ekluUC9Ddis1QzZqbitqcDV3PT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTE4JmlkPWNoXzgxNzIy",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True X-Zyte",
+"image": "http://cms.dmpcdn.com/livetv/2018/12/17/05979f77-0c03-4f14-8d5a-bfc0c6675626.png",
+"url": "http://dogtoop.com:8443/xzye11/xu35aqjTaK/158",
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"playInNatPlayer": "true"
+},
+
+
+{
+"name": "True X-Zyte",
+"image": "http://cms.dmpcdn.com/livetv/2018/12/17/05979f77-0c03-4f14-8d5a-bfc0c6675626.png",
+"url": "http://tv1.chang55.com:7799/live/C15x1/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "GEM",
+"image": "https://cms.dmpcdn.com/livetv/2020/03/17/46466450-6842-11ea-a7cd-dd316e61efc7_original.png",
+"url": "https://fo1iptv.com/tv-player/gem-tv.html",
+"referer": "https://fo1iptv.com/",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "GEM",
+"image": "https://cms.dmpcdn.com/livetv/2020/03/17/46466450-6842-11ea-a7cd-dd316e61efc7_original.png",
+"url": "http://45.126.83.51/session/4b965e82-6e78-11eb-a799-ba99ac333be4/uq2663/h/h19/02.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Food Network",
+"image": "http://cms.dmpcdn.com/livetv/2018/12/17/be5bba16-15a7-4aba-9867-9979b733c420.png",
+"url": "https://dogtoop.com:8443/foodnf/uQ2aa3ATGU/166",
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Food Network",
+"image": "http://cms.dmpcdn.com/livetv/2018/12/17/be5bba16-15a7-4aba-9867-9979b733c420.png",
+"url": "http://119.161.100.50:9999/live/test123/test123/565.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Asian Food Network",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",
+"url": "https://mediasv.online/tvchannel_x2/hd-afc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIxIDk6MzU6NTIgQU0maGFzaF92YWx1ZT1obXlTa3dGY3JWR2lBN2NWaFNIQWRBPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTE5JmlkPWNoXzE1OTA4",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Asian Food Network",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",
+"url": "http://dogtoop.com:8443/afn00/RnYYeykCXe/74",
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Asian Food Network",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",
+"url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Stringray iConcerts",
+"image": "http://cms.dmpcdn.com/livetv/2019/01/16/aa02422d-9a3a-4dd4-9e11-15bd219ed41e.png",
+"url": "https://player.we-play.tv/channel.php?name=iconcerts&cate=entertainment",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Music",
+"image": "http://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",
+"url": "https://tv.trueid.net/embed/true-music-channel-hd?autoplay=yes&nopageview=yes",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+},
+
+{
+"name": "TRUE MUSIC",
+"image": "http://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",              
+"url": "https://www.livedoomovie.com/02_TRUEMUSIC_720p/chunklist.m3u8",
+"import": false
+},
+
+{
+"name": "TRUE MUSIC",
+"image": "http://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",              
+"url": "https://boxmovie-th.com/app-api-android/true/TRUE-MUSIC-HD/playlist.m3u8",
+"import": false
+},
+
+{
+"name": "Channel V",
+"image": "https://static.wikia.nocookie.net/russel/images/c/ca/Channel_V_Philippines_Logo_1994.png",
+"url": "https://27.254.130.62/feed/LC14/index.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "VHD",
+"image": "https://pbs.twimg.com/profile_images/488971054782492674/y9rghlFo.jpeg",
+"url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "TRUE Inside",
+"image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",              
+"url": "https://boxmovie-th.com/app-api-android/true/True-Inside-HD/playlist.m3u8",
+"import": false 
+},
+
+{
+"name": "Super Buntung",
+"image": "http://cms.dmpcdn.com/livetv/2019/01/21/a870a651-9595-4921-bc41-7ba39d7067a3.png",              
+"url": "http://119.161.100.50:9999/live/test123/test123/546.m3u8",
+"import": false
+},
+
+{
+"name": "TLC",
+"image": "https://www.we-play.tv//uploads/posters/tlc-hd-poster1602705866.jpeg",
+"url": "https://fo1iptv.com/tv-player/tlc-hd.html",
+"referer": "https://fo1iptv.com/",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name":"TLC",
+"image":"https://www.we-play.tv//uploads/posters/tlc-hd-poster1602705866.jpeg",
+"url": "https://player.we-play.tv/channel.php?name=tlc&cate=documentary",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name":"TLC",
+"image":"https://www.we-play.tv//uploads/posters/tlc-hd-poster1602705866.jpeg",
+"url": "https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "CCM",
+"image": "http://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",              
+"url": "https://dogtoop.com:8443/ccm/tmFcX8fsY4/103",
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "CCM",
+"image": "http://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",              
+"url": "http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+
+
+{
+"name": "celestial movie",
+"image": "https://pbs.twimg.com/profile_images/378800000730309303/77807b57979d5b121a47030e2bc462ae_400x400.jpeg",              
+"url": "http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "CTB",
+"image": "https://www.doohdbox.com/assets/20170709090502720443899.jpg",              
+"url": "http://vip.login.in.th:1935/CTB/CTB/chunklist_w1645421209.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "TVB Thai",
+"image": "https://sv1.picz.in.th/images/2020/10/06/OpPQuI.jpg",
+"url": "https://fo1iptv.com/tv-player/tvb.html",
+"referer": "https://fo1iptv.com/",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "TVB Thai",
+"image": "https://sv1.picz.in.th/images/2020/10/06/OpPQuI.jpg",              
+"url": "https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8",
+"import": false
+},
+
+{
+"name": "LAO STAR",
+"image": "http://cms.dmpcdn.com/livetv/2017/10/18/9b807931-1c79-454b-8854-d5ea22c0735c.png",
+"url": "https://cdn7.goprimetime.info/feed/LC58/playlist.m3u8",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "MIX MAJOR",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2019/01/mixmajor.jpg",              
+"url": "https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/playlist.m3u8",
+"import": false
+},
+
+{
+"name": "CHANNEL8",
+"image": "https://sv1.picz.in.th/images/2020/10/09/OeRVVb.png",              
+"url": "https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8",
+"import": false
+},
+
+{
+"name": "Channel 8",
+"image": "https://live-tv-channels.org/pt-data/uploads/logo/th-channel-8-thailand-5394.jpg",
+"url": "http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "CTB",
+"image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1619767579149_movie_image.jpg",
+"url": "http://vip.login.in.th:1935/CTB/CTB/chunklist_w327732710.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "FW MOV",
+"image": "https://www.inwiptv.com/postor/20200512164154fwmov.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=89782",
+"referer": "https://www.inwiptv.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "FW SOV",
+"image": "https://www.inwiptv.com/postor/20200512165346fwsov.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=89781",
+"referer": "https://www.inwiptv.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "FW Toon",
+"image": "https://www.inwiptv.com/postor/20200512162950fw%20teletoon(1).jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=89780",
+"referer": "https://www.inwiptv.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Universal",
+"image": "https://i.ytimg.com/vi/bNJW113tbKk/maxresdefault.jpg",
+"url": "http://916309128f3e.sn.mynetname.net:1935/aslive/thrill/chunklist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Live Sky 1",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr4jKdcUx23-1JCJ969RVh_54uSnsl4Cp05rWlHkhwNjXEm9jM_kBb_xSNPXc8Z2jDvBY&usqp=CAU",
+"url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/627.ts",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Live Sky 2",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr4jKdcUx23-1JCJ969RVh_54uSnsl4Cp05rWlHkhwNjXEm9jM_kBb_xSNPXc8Z2jDvBY&usqp=CAU",
+"url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/628.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Live Sky 3",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr4jKdcUx23-1JCJ969RVh_54uSnsl4Cp05rWlHkhwNjXEm9jM_kBb_xSNPXc8Z2jDvBY&usqp=CAU",
+"url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/623.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Live Sky 4",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr4jKdcUx23-1JCJ969RVh_54uSnsl4Cp05rWlHkhwNjXEm9jM_kBb_xSNPXc8Z2jDvBY&usqp=CAU",
+"url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/633.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Live Sky 1",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr4jKdcUx23-1JCJ969RVh_54uSnsl4Cp05rWlHkhwNjXEm9jM_kBb_xSNPXc8Z2jDvBY&usqp=CAU",
+"url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/642.ts",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Live Sky 2",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr4jKdcUx23-1JCJ969RVh_54uSnsl4Cp05rWlHkhwNjXEm9jM_kBb_xSNPXc8Z2jDvBY&usqp=CAU",
+"url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/643.ts",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Live Sky 3",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr4jKdcUx23-1JCJ969RVh_54uSnsl4Cp05rWlHkhwNjXEm9jM_kBb_xSNPXc8Z2jDvBY&usqp=CAU",
+"url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/644.ts",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Live Sky 4",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr4jKdcUx23-1JCJ969RVh_54uSnsl4Cp05rWlHkhwNjXEm9jM_kBb_xSNPXc8Z2jDvBY&usqp=CAU",
+"url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/645.ts",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Movie SAT",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb2s23Orzm-s0Y_46M_lPoBth6blDfwz2xXQ&usqp=CAU",
+"url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/635.ts",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "I Movie",
+"image": "https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg",
+"url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/626.ts",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "I Movie",
+"image": "https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg",
+"url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/641.ts",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "A Film",
+"image": "https://asianfilmfestivalscomsite.files.wordpress.com/2020/03/asianfilmawards.png",
+"url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/636.ts",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Series +",
+"image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Series_Plus_2020_logo_Hi_Res.png",
+"url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/631.ts",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Series +",
+"image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Series_Plus_2020_logo_Hi_Res.png",
+"url": "http://http://dogtoop.com:8443/series201/6k9EEkqskV/159",
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "3BB Asia",
+"image": "https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/3BBAsian.png",
+"url": "http://dogtoop.com:8443/3bb/PSLDWu7RpX/25",
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "3BB Asia",
+"image": "https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/3BBAsian.png",
+"url": "http://191.96.36.150:80/3bb/PSLDWu7RpX/25",
+"userAgent": "ExoMedia 4.3.0 (43000)",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Cable Movie 1",
+"image": "https://image.freepik.com/free-vector/click-movie-logo-vector_18099-274.jpg",
+"url": "http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel/chunklist_w1127755900.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Cable Movie 2",
+"image": "https://image.freepik.com/free-vector/click-movie-logo-vector_18099-274.jpg",
+"url": "http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel2/chunklist_w303936619.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Cable Series 1",
+"image": "https://logos.flamingtext.com/Word-Logos/series-design-china-name.png",
+"url": "http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries1/chunklist_w1936282519.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Cable Series 2",
+"image": "https://logos.flamingtext.com/Word-Logos/series-design-china-name.png",
+"url": "http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries2/chunklist_w1310036100.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Dek Dun Nung",
+"image": "https://i.ytimg.com/vi/ZIrYPfZKJBo/maxresdefault.jpg",
+"url": "http://st.livestations.tv/playlist_dek1.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "SANOOK MOVIES",
+"image": "https://il.mahidol.ac.th/upload/img/2021-01-08-092045.jpg",
+"url": "https://cdn7.goprimetime.info/feed/LC53/index.m3u8",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "SANOOK MOVIES",
+"image": "https://il.mahidol.ac.th/upload/img/2021-01-08-092045.jpg",
+"url": "http://61.19.242.134:80/feed/LC53/index.m3u8",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Box Film",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlTCrh1kd10zg5XHFulfG-Oa5xTNYOGrlSBQ&usqp=CAU",
+"url": "https://cdn7.goprimetime.info/feed/LC52/index.m3u8",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Box Film",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlTCrh1kd10zg5XHFulfG-Oa5xTNYOGrlSBQ&usqp=CAU",
+"url": "http://61.19.242.134/feed/LC52/index.m3u8",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "SUN MOVIE EN",
+"image": "https://previews.123rf.com/images/designeran/designeran1605/designeran160500129/56622423-logo-of-bright-sun-.jpg",
+"url": "https://27.254.130.62/feed/LC11/index.m3u8",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "SUN MOVIE TH",
+"image": "https://previews.123rf.com/images/designeran/designeran1605/designeran160500129/56622423-logo-of-bright-sun-.jpg",
+"url": "https://27.254.130.62/feed/LC1/index.m3u8",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "SAMURAI MOVIE",
+"image": "https://i.pinimg.com/originals/77/21/7f/77217fffeb56e4c92bae97594dbabd56.png",
+"url": "https://cdn7.goprimetime.info/feed/LC2/index.m3u8",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "SAMURAI MOVIE",
+"image": "https://i.pinimg.com/originals/77/21/7f/77217fffeb56e4c92bae97594dbabd56.png",
+"url": "http://61.19.242.134/feed/LC2/index.m3u8",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Zee Nung",
+"image": "https://il.mahidol.ac.th/upload/img/2020-09-20-062407.jpg",
+"url": "https://cdn7.goprimetime.info/feed/LC5/index.m3u8",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Zee Nung",
+"image": "https://il.mahidol.ac.th/upload/img/2020-09-20-062407.jpg",
+"url": "https://cdnlive.goprimetime.info/feed/chzeenung/index.m3u8",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "M Channel",
+"image": "https://cms.dmpcdn.com/livetv/2019/01/19/2171eaf4-036c-4958-ac0f-9d170d1faedf.png",
+"url": "http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "M Channel",
+"image": "https://cms.dmpcdn.com/livetv/2019/01/19/2171eaf4-036c-4958-ac0f-9d170d1faedf.png",
+"url": "https://cdn7.goprimetime.info/feed/chmchannel/index.m3u8",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "M2 Movie",
+"image": "https://static.wikia.nocookie.net/logopedia/images/3/37/Logo-m2-pictures.jpg",
+"url": "https://27.254.130.62/feed/LC24/index.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Mongorn",
+"image": "https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png",
+"url": "https://tv.trueid.net/embed/Mangorn?autoplay=yes&nopageview=yes",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Lotus Macao",
+"image": "https://live-tv-channels.org/pt-data/uploads/logo/mo-macau-lotus-tv-3757.jpg",
+"url": "https://27.254.130.62/feed/LC41/index.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Thrill",
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg",
+"url": "https://27.254.130.62/feed/LC26/index.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Sangjun",
+"image": "https://www.inwiptv.com/postor/20210505001414%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C.jpg",
+"url": "http://freelive.inwstream.com:1935/freelive-edge/sangjun.stream/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "MRTV",
+"image": "https://upload.wikimedia.org/wikipedia/commons/0/08/MRTV_logo.png",
+"url": "https://27.254.130.62/feed/LC17/index.m3u8 ",
+"playInNatPlayer": "true"
+},
+
+
+
+
+]
+}
+
