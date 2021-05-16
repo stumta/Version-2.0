@@ -1,0 +1,35 @@
+
+
+
+#EXTM3U
+
+#============================== RoboCop
+
+
+#EXTINF:-1 group-title='Movie'tvg-logo="https://www.movie-24th.com/wp-content/uploads/2020/03/RoboCop-1-350x520-1.jpg",RoboCop 1 TH
+https://cache-edge1.movieclubhd.tv/hls/content/nas01/movie/eng/chunklist_wmeng1516.MP4/index.m3u8?st=92jgKQHbe1bXmx9fmaxniQ&e=1615013116&u=438578
+
+#EXTINF:-1 group-title='Movie'tvg-logo="https://www.movie-24th.com/wp-content/uploads/2020/03/RoboCop-1-350x520-1.jpg",RoboCop 1 EN
+https://cache-edge1.movieclubhd.tv/hls/content/nas01/movie/eng/chunklist_wmeng1517.MP4/index.m3u8?st=QFf8CENhJe4YmcCaseEbqg&e=1615013133&u=438578
+
+#EXTINF:-1 group-title='Movie'tvg-logo="https://flxt.tmsimg.com/assets/p12568_p_v10_ac.jpg",RoboCop 2 TH
+https://cache-edge1.movieclubhd.tv/hls/content/nas01/movie/eng/chunklist_wmeng1518.MP4/index.m3u8?st=MyCyNvj2sBxhmqSWg-pVIQ&e=1615013026&u=438578
+
+#EXTINF:-1 group-title='Movie'tvg-logo="https://flxt.tmsimg.com/assets/p12568_p_v10_ac.jpg",RoboCop 2 EN
+https://cache-edge1.movieclubhd.tv/hls/content/nas01/movie/eng/chunklist_wmeng1519.MP4/index.m3u8?st=UtOfbjsJLKH_ad8fMoSl1g&e=1615013090&u=438578
+
+#EXTINF:-1 group-title='Movie'tvg-logo="https://movieposters2.com/images/1541418-b.jpg",RoboCop 3 TH
+https://cache-edge1.movieclubhd.tv/hls/content/nas01/movie/eng/chunklist_wmeng1520.MP4/index.m3u8?st=44mQWDx7OCP-a3YdeUpEoA&e=1615013154&u=438578
+
+#EXTINF:-1 group-title='Movie'tvg-logo="https://movieposters2.com/images/1541418-b.jpg",RoboCop 3 TH
+https://cache-edge1.movieclubhd.tv/hls/content/nas01/movie/eng/chunklist_wmeng1521.MP4/index.m3u8?st=Kl82RJ_x9O1b4p6CxqxvDQ&e=1615013167&u=438578
+
+#EXTINF:-1 group-title='Movie'tvg-logo="https://cdn.europosters.eu/image/750/kehystetyt-lasitetut-julisteet-robocop-2014-one-sheet-i16653.jpg",RoboCop 2014 TH
+https://cache-edge1.movieclubhd.tv/hls/content/nas01/movie/eng/chunklist_wmeng1536.MP4/index.m3u8?st=CggIjoBeUpW7OpotR5_lVw&e=1615013203&u=438578
+
+#EXTINF:-1 group-title='Movie'tvg-logo="https://cdn.europosters.eu/image/750/kehystetyt-lasitetut-julisteet-robocop-2014-one-sheet-i16653.jpg",RoboCop 2014 EN
+https://cache-edge1.movieclubhd.tv/hls/content/nas01/movie/eng/chunklist_wmeng1537.MP4/index.m3u8?st=48NfoGFwIKw0_hsWB0aqYA&e=1615013219&u=438578
+
+
+
+
