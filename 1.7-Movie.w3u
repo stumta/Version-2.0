@@ -1,6 +1,6 @@
 {
 	"name": "1.7-Movie",
-	"author": "Version 2.0 02 May 2021",
+	"author": "Version 2.0 16 May 2021",
 	"image": "https://inwfile.com/s-de/t1xo04.jpg",
 	"imageScale": "centerCrop",
 	"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.7-Movie.w3u",
@@ -59,7 +59,15 @@
 				},
 				
 				{
-					"name": "1.7.07-Thai Movie",
+					"name": "1.7.07-Sequel Movie",
+					"image": "https://www.veknow.com/wp-content/uploads/2020/01/pjimage.jpg",
+					"imageScale": "centerCrop",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8-Sqequel%20Movie.w3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.7.08-Thai Movie",
 					"image": "https://us-fbcloud.net/wb/data/1143/1143468-img.tmsyo6.0p.jpg",
 					"imageScale": "centerCrop",
 					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.7-Thai%20Movie.m3u",
@@ -67,7 +75,7 @@
 				},
 				
 				{
-					"name": "1.7.08-FC Nakom",
+					"name": "1.7.09-FC Nakom",
 					"image": "https://media0.giphy.com/media/r8baUZSywo6i9wqUaU/giphy.gif",
 					"imageScale": "centerCrop",
 					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.11-nakom.w3u",
