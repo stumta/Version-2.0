@@ -1,0 +1,33 @@
+
+
+{
+"name":"10-Football Program",
+"image":"https://static.siamsport.co.th/news/2020/10/18/news20201018075587.jpg",
+"url": "https://raw.githubusercontent.com/stumta/Version-1.6/main/07-Football%20Program.w3u",
+"stations":[
+
+{
+"name": "Football Program I",
+"image":"https://static.siamsport.co.th/news/2020/02/08/news202002080949592.jpg",  
+"url": "http://nikky.redfight.info/web/indexball.html",
+ "embed" : "true"
+ },
+ 
+ {
+"name":"Football Program II",
+"image":"https://static.siamsport.co.th/news/2020/07/18/news2020071808041.jpg",
+"url":"https://www.chklive.com/",
+"webviewType": "chrome",
+"embed": true
+},	
+
+{
+"name":"Football Program III",
+"image":"https://static.siamsport.co.th/news/2019/01/19/news20190119083737.jpg",
+"url":"https://www.doonung1234.com/match/view/9869/epl1backup",
+"webviewType": "chrome",
+"embed": true
+},	
+
+]
+}
