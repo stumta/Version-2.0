@@ -1,0 +1,27 @@
+
+
+
+#EXTM3U
+
+#============================== The Godfather
+
+
+#EXTINF:-1 group-title='Movie'tvg-logo="https://i.pinimg.com/originals/a0/c0/50/a0c050d68a619f501fb3f3a44e4aeba8.jpg",01-The Godfather 1 1972 TH
+https://cache-edge1.movieclubhd.tv/hls/content/nas01/movie/eng/chunklist_wmeng1049.MP4/index.m3u8?st=2Ok3nQZSGoWqfFCNrwacpw&e=1615090881&u=438578
+
+#EXTINF:-1 group-title='Movie'tvg-logo="https://i.pinimg.com/originals/a0/c0/50/a0c050d68a619f501fb3f3a44e4aeba8.jpg",01-The Godfather 1 1972 EN
+https://cache-edge1.movieclubhd.tv/hls/content/nas01/movie/eng/chunklist_wmeng1050.MP4/index.m3u8?st=fN0hCHuHKKKbtFl0ybwE1g&e=1615091054&u=438578
+
+#EXTINF:-1 group-title='Movie'tvg-logo="https://shotonwhat.com/images/0071562-med.jpg",02-The Godfather Part II 1974 TH
+https://cache-edge1.movieclubhd.tv/hls/content/nas01/movie/eng/chunklist_wmeng1051.MP4/index.m3u8?st=G6yBnHpsWkNYRx3WRTxcgg&e=1615091074&u=438578
+
+#EXTINF:-1 group-title='Movie'tvg-logo="https://shotonwhat.com/images/0071562-med.jpg",02-The Godfather Part II 1974 EN
+https://cache-edge1.movieclubhd.tv/hls/content/nas01/movie/eng/chunklist_wmeng1052.MP4/index.m3u8?st=6RKWXMBOaUA_m-Ft62-j6w&e=1615091131&u=438578
+
+#EXTINF:-1 group-title='Movie'tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/GodfatherIII2.jpg",03-The Godfather Part III 1990 TH
+https://cache-edge1.movieclubhd.tv/hls/content/nas01/movie/eng/chunklist_wmeng1053.MP4/index.m3u8?st=TxKMdUlNqAxh1SzoSdOkWw&e=1615091153&u=438578
+
+#EXTINF:-1 group-title='Movie'tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/GodfatherIII2.jpg",03-The Godfather Part III 1990 EN
+https://cache-edge1.movieclubhd.tv/hls/content/nas01/movie/eng/chunklist_wmeng1054.MP4/index.m3u8?st=_9mJilD9iZlrsqdbiyQu_Q&e=1615091255&u=438578
+
+
