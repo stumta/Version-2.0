@@ -1,0 +1,69 @@
+{
+	"name": "1.8.4.02-Game of Thrones",
+	"author": "Version 2.0 17 May 2021",
+	"image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4909/474909-h",
+	"url": "",
+	"groups": [
+	
+				{
+					"name": "1.8.4.02.1-Game of Thrones Season 1",
+					"image": "https://tvtrippin.com/wp-content/uploads/2021/02/game-of-thrones-season-1.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.4.02.1-Game%20of%20Thrones%20Season%201.m3u",
+					"import": false
+				},
+								
+				{
+					"name": "1.8.4.02.2-Game of Thrones Season 2",
+					"image": "https://tvtrippin.com/wp-content/uploads/2021/02/game-of-thrones-season-2.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.4.02.2-Game%20of%20Thrones%20Season%202.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.4.02.3-Game of Thrones Season 3",
+					"image": "https://images-na.ssl-images-amazon.com/images/I/41uK1SOGtqL.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.4.02.3-Game%20of%20Thrones%20Season%203.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.4.02.4-Game of Thrones Season 4",
+					"image": "https://movie222hd.com/wp-content/uploads/5ef232d2162bed48c1b9add5f11f1792.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.4.02.4-Game%20of%20Thrones%20Season%204.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.4.02.5-Game of Thrones Season 5",
+					"image": "https://www.dooseries.org/wp-content/uploads/2019/07/Game-Of-Thrones-Season-5-1.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.4.02.5-Game%20of%20Thrones%20Season%205.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.4.02.6-Game of Thrones Season 6",
+					"image": "https://i1.sndcdn.com/artworks-000168830626-qgoow4-t500x500.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.4.02.6-Game%20of%20Thrones%20Season%206.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.4.02.7-Game of Thrones Season 7",
+					"image": "http://f.ptcdn.info/835/046/000/ofng4d8fjtfvD2ic6Om-o.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.4.02.7-Game%20of%20Thrones%20Season%207.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.4.02.8-Game of Thrones Season 8 Final Season",
+					"image": "http://ilfasr399.weebly.com/uploads/1/2/4/0/124067598/927749821.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.4.02.8-Game%20of%20Thrones%20Season%208.m3u",
+					"import": false
+				},
+
+              
+				
+    					
+			]	
+				
+		}
