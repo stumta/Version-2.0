@@ -1,0 +1,69 @@
+{
+	"name": "1.8.4.03-Arrow",
+	"author": "Version 2.0 17 May 2021",
+	"image": "https://images-na.ssl-images-amazon.com/images/I/9197Cs873ML._AC_SL1500_.jpg",
+	"url": "",
+	"groups": [
+	
+				{
+					"name": "1.8.4.03.1-Arrow Season 1",
+					"image": "https://images-na.ssl-images-amazon.com/images/I/91iV48abjkL._AC_SL1500_.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.4.03.1-Arrow%20Season%201.m3u",
+					"import": false
+				},
+								
+				{
+					"name": "1.8.4.02.2-Arrow Season 2",
+					"image": "https://www.sknmart.com/wp-content/uploads/2020/07/aro.png",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.4.03.2-Arrow%20Season%202.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.4.02.3-Arrow Season 3",
+					"image": "https://pm1.narvii.com/6051/0efadcc5cd7413a7ef6093faf3ec512655f44000_hq.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.4.03.3-Arrow%20Season%203.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.4.02.4-Arrow Season 4",
+					"image": "https://upload.wikimedia.org/wikipedia/en/9/9c/Arrow_season_4.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.4.03.4-Arrow%20Season%204.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.4.02.5-Arrow Season 5",
+					"image": "https://upload.wikimedia.org/wikipedia/en/d/db/Arrow_season_5.jpg",
+					"url": "",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.4.02.6-Arrow Season 6",
+					"image": "https://upload.wikimedia.org/wikipedia/en/6/6c/Arrow_season_6.jpg",
+					"url": "",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.4.02.7-Arrow Season 7",
+					"image": "https://www.sanity.com.au/media/Images/fullimage/520547/SDC_2426314_2019-20-7--00-15-08.jpg",
+					"url": "",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.4.02.8-Arrow Season 8 Final Season",
+					"image": "https://upload.wikimedia.org/wikipedia/en/9/9c/Arrow_season_8.jpg",
+					"url": "",
+					"import": false
+				},
+
+              
+				
+    					
+			]	
+				
+		}
