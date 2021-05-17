@@ -1,0 +1,50 @@
+{
+	"name": "1.8-Series",
+	"author": "Version 2.0 02 May 2021",
+	"image": "https://logos.flamingtext.com/Word-Logos/series-design-girls-name.png",
+	"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8-Series.w3u",
+	"groups": [
+	
+
+				{
+					"name": "1.8.1-Chinese Series",
+					"image": "https://s359.kapook.com/r/600/auto/pagebuilder/27362d47-cfc1-426d-a2dd-7c87e3837b80.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.1-Chinese%20Series.w3u",
+					"import": false
+				},	
+				
+				{
+					"name": "1.8.2-Korea Series",
+					"image": "https://cloudfront.tourkrub.co/uploads/blog_post/cover/411/TK-KR-series_blog_cover.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.2-Korea%20Series.w3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.3-Thai Series",
+					"image": "https://www.posttoday.com/media/content/2015/05/30/D042D1DA7B6C445B95985F72E93FFF40.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.3-Thai%20Series.w3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.4-Inter Series",
+					"image": "https://nolink.in/wp-content/uploads/2020/09/20200128_200128_000700-1.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.4-Inter%20Series.w3u",
+					"import": false
+				},
+				
+				
+				
+						
+     					
+			]	
+				
+		},
+
+				
+			]
+			
+		
+    ]
+}
