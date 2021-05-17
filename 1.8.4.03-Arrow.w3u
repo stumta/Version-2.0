@@ -43,8 +43,8 @@
 				{
 					"name": "1.8.4.02.6-Arrow Season 6",
 					"image": "https://upload.wikimedia.org/wikipedia/en/6/6c/Arrow_season_6.jpg",
-					"url": "",
-					"import": falsehttps://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.4.03.6-Arrow%20Season%206.m3u
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.4.03.6-Arrow%20Season%206.m3u",
+					"import": false
 				},
 				
 				{
