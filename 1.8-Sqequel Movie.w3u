@@ -1,0 +1,122 @@
+{
+	"name": "1.8-Sqequel Movie",
+	"author": "Version 2.0 16 May 2021",
+	"image": "https://www.veknow.com/wp-content/uploads/2020/01/pjimage.jpg",
+	"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8-Sqequel%20Movie.w3u",
+	"groups": [
+	
+
+		
+				{
+					"name": "1.8.01-ตำนานสมเด็จพระนเรศวรมหาราช",
+					"image": "https://cms.dmpcdn.com/movie/2021/02/11/f3d70280-6c2b-11eb-a204-85e383c337aa_1024.png",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.10.01-Naresuan.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.02-The Fast and the Furious",
+					"image": "https://i.pinimg.com/originals/75/fd/1f/75fd1fa0d215691239a4e5aae3291013.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.10.02-The%20Fast%20and%20the%20Furious.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.03-Hary Potter",
+					"image": "https://images-na.ssl-images-amazon.com/images/I/81j13B%2BoKaL._AC_SX425_.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.10.03-Harry%20Potter.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.04-The Bourne Collection",
+					"image": "https://orlandoinformer.com/wp-content/uploads/2018/01/The-Bourne-film-series.png",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.10.04-Bourne%20Collection.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.05-Mission Impossible",
+					"image": "https://images-na.ssl-images-amazon.com/images/I/61S1xKn3IXL._AC_.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.10.05-Mission%20Impossible.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.06-Transformers",
+					"image": "https://i.ytimg.com/vi/oHGrd6GhSs4/maxresdefault.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.10.06-Transformers.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.07-X-MEN",
+					"image": "https://cdn.majorcineplex.com/uploads/content/images/1%28117%29.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.10.07-X-Men.m3u",
+					"import": false
+				},
+				
+	
+				{
+					"name": "1.8.08-Under World",
+					"image": "https://thehypedgeek.com/wp-content/uploads/2014/08/Underworld.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.10.08-Underworld.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.09-Oceans",
+					"image": "https://www.filmfestivals.com/files/images/u1057/oceans1.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.10.09-Oceans.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.10-The Hunger Games",
+					"image": "https://i.pinimg.com/originals/38/69/d6/3869d6bf41bd566fc4161b9288a6c8e0.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.10.10-The%20Hunger%20Games.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.11-The Twilight",
+					"image": "https://www.thefilmagazine.com/wp-content/uploads/2020/03/Twilight-Movies-Ranked-Worst-to-Best.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.10.11-The%20Twilight%20Saga.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.12-Hellboy",
+					"image": "https://i.ytimg.com/vi/T_p4UBwllwc/maxresdefault.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.10.12-Hellboy.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.13-RoboCop",
+					"image": "https://i.redd.it/q6hpftkz00j21.png",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.10.13-RoboCop.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.14-The Godfather",
+					"image": "https://joenour.files.wordpress.com/2016/06/the-godfather.jpg?w=625",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.10.14-The%20Godfather.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.15-Young & Dangerous",
+					"image": "https://img.monomax.me/unsafe/www.monomax.me/userfiles/picture/Young-Dangerous-19.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.10.15-Young%20and%20Dangerous.m3u",
+					"import": false
+				},
+				
+							
+     					
+			]	
+				
+		}
+
+				
