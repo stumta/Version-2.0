@@ -1,0 +1,33 @@
+
+
+
+#EXTM3U
+
+#================================= Sherlock Season 1 ===============================================================
+#
+#								Update 21 May 2021
+#
+#===================================================================================================================
+
+
+#EXTINF:-1 group-title="Sherlock Season 1" tvg-logo="https://www.sanity.com.au/media/Images/fullimage/543335/SDC_2455435_2020-16-1--00-18-00.jpg",SS-01 EP 01 TH
+https://cache-edge2.movieclubhd.tv/hls/content/nas02/mvc/s/en/Sherlock-Season-1/EP01T.mp4/index.m3u8?st=mAQdF-fzXkE0gpL6zqPH9Q&e=1621762728&u=429898
+
+#EXTINF:-1 group-title="Sherlock Season 1" tvg-logo="https://www.sanity.com.au/media/Images/fullimage/543335/SDC_2455435_2020-16-1--00-18-00.jpg",SS-01 EP 01 EN
+https://cache-edge2.movieclubhd.tv/hls/content/nas02/mvc/s/en/Sherlock-Season-1/EP01.mp4/index.m3u8?st=vpphb5hpMHW2bU8ZoZUWIQ&e=1621762750&u=429898
+
+#EXTINF:-1 group-title="Sherlock Season 1" tvg-logo="https://www.sanity.com.au/media/Images/fullimage/543335/SDC_2455435_2020-16-1--00-18-00.jpg",SS-01 EP 02 TH
+https://cache-edge2.movieclubhd.tv/hls/content/nas02/mvc/s/en/Sherlock-Season-1/EP02T.mp4/index.m3u8?st=mAQdF-fzXkE0gpL6zqPH9Q&e=1621762728&u=429898
+
+#EXTINF:-1 group-title="Sherlock Season 1" tvg-logo="https://www.sanity.com.au/media/Images/fullimage/543335/SDC_2455435_2020-16-1--00-18-00.jpg",SS-01 EP 02 EN
+https://cache-edge2.movieclubhd.tv/hls/content/nas02/mvc/s/en/Sherlock-Season-1/EP02.mp4/index.m3u8?st=vpphb5hpMHW2bU8ZoZUWIQ&e=1621762750&u=429898
+
+#EXTINF:-1 group-title="Sherlock Season 1" tvg-logo="https://www.sanity.com.au/media/Images/fullimage/543335/SDC_2455435_2020-16-1--00-18-00.jpg",SS-01 EP 03 TH
+https://cache-edge2.movieclubhd.tv/hls/content/nas02/mvc/s/en/Sherlock-Season-1/EP03T.mp4/index.m3u8?st=mAQdF-fzXkE0gpL6zqPH9Q&e=1621762728&u=429898
+
+#EXTINF:-1 group-title="Sherlock Season 1" tvg-logo="https://www.sanity.com.au/media/Images/fullimage/543335/SDC_2455435_2020-16-1--00-18-00.jpg",SS-01 EP 03 EN End
+https://cache-edge2.movieclubhd.tv/hls/content/nas02/mvc/s/en/Sherlock-Season-1/EP03.mp4/index.m3u8?st=vpphb5hpMHW2bU8ZoZUWIQ&e=1621762750&u=429898
+
+
+
+
