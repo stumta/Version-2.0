@@ -1,0 +1,55 @@
+{
+	"name": "1.8.4-Inter Series",
+	"author": "Version 2.0 17 May 2021",
+	"image": "https://nolink.in/wp-content/uploads/2020/09/20200128_200128_000700-1.jpg",
+	"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.4-Inter%20Series.w3u",
+	"groups": [
+	
+				{
+					"name": "1.8.3.01-Jupiter Legacy Season 1",
+					"image": "https://www.beartai.com/wp-content/uploads/2021/05/Untitled-1-2.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.4.01-Jupiter%20Legacy%20Season%201.m3u",
+					"import": false
+				},
+								
+				{
+					"name": "1.8.3.02-Game of Thrones",
+					"image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4909/474909-h",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.4.02-Game%20of%20Thrones.w3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.3.03-Arrow",
+					"image": "https://images-na.ssl-images-amazon.com/images/I/9197Cs873ML._AC_SL1500_.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.4.03-Arrow.w3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.3.04-Homeland",
+					"image": "https://www.64biz.com/wp-content/uploads/2019/04/homeland.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.4.04-Homeland.w3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.3.05-Narcos Mexico",
+					"image": "https://netflixinbelgie.be/wp-content/uploads/2018/11/Narcos-Mexico-Netflix-810x456.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.4.05-Narcos%20Mexico.w3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.3.06-Sherlock",
+					"image": "https://otakukart.com/wp-content/uploads/2021/03/Sherlock-Series.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.4.06-Sherlock.w3u",
+					"import": false
+				},
+
+              
+				
+    					
+			]	
+				
+		}
