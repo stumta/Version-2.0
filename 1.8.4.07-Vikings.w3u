@@ -1,0 +1,54 @@
+{
+	"name": "1.8.4.07-Vikings",
+	"author": "Version 2.0 22 May 2021",
+	"image": "https://images-na.ssl-images-amazon.com/images/I/51R4wGv%2B5mL._AC_SX450_.jpg",
+	"url": "",
+	"groups": [
+	
+				{
+					"name": "1.8.4.07.1-Vikings Season 1",
+					"image": "https://www.inwiptv.com/postor/20181214164831s592.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.4.07.1-Vikings%20Season%201.m3u",
+					"import": false
+				},
+								
+				{
+					"name": "1.8.4.07.2-Vikings Season 2",
+					"image": "https://images-na.ssl-images-amazon.com/images/I/71dmogGAzwL._AC_SL1024_.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.4.07.2-Vikings%20Season%202.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.4.07.3-Vikings Season 3",
+					"image": "https://i.pinimg.com/originals/23/c4/f3/23c4f33d4c114f8eab110717ca579c31.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.4.07.3-Vikings%20Season%203.m3u",
+					"import": false
+				},
+								
+				{
+					"name": "1.8.4.07.4-Vikings Season 4",
+					"image": "https://images-na.ssl-images-amazon.com/images/I/81MdWq9C4WL._AC_SL1500_.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.4.07.4-Vikings%20Season%204.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "1.8.4.07.5-Vikings Season 5",
+					"image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6263/6263815_so.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.4.07.5-Vikings%20Season%205.m3u",
+					"import": false
+				},
+								
+				{
+					"name": "1.8.4.07.6-Vikings Season 6",
+					"image": "https://images-na.ssl-images-amazon.com/images/I/91QT8yXOiFL._SL1500_.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.8.4.07.6-Vikings%20Season%206.m3u",
+					"import": false
+				},
+				
+				            
+				
+			]	
+				
+		}
