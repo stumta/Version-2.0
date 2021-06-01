@@ -1,0 +1,507 @@
+
+
+{
+"name": "Digital TV",
+"author": "V2.0 update 1/5/2021",
+"image": "https://www.isranews.org/images/2018/isranews/04/25042018.jpg",
+"stations":[
+
+
+
+{
+"name": "CH 5",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
+"url": "https://cdnlive.goprimetime.info/feed//ch5hd/playlist.m3u8",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "CH 5",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
+"url": "https://tv.trueid.net/embed/ch5?autoplay=yes&nopageview=yes",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+},
+
+{
+"name": "CH 5",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27190",
+"referer": "https://www.inwiptv.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "NBT",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
+"url": "https://cdnlive.goprimetime.info/feed//chnbt/playlist.m3u8",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "NBT",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
+"url": "https://tv.trueid.net/embed/nbt?autoplay=yes&nopageview=yes",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+},
+
+{
+"name": "NBT",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27189",
+"referer": "https://www.inwiptv.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Thai PBS",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
+"url": "https://cdnlive.goprimetime.info/feed//chthaipbs/playlist.m3u8",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Thai PBS",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
+"url": "http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Thai PBS",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
+"url": "https://tv.trueid.net/embed/thaipbs?autoplay=yes&nopageview=yes",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "ALTV4",
+"image": "https://www.altv.tv/_nuxt/img/altv4-dark.92802e3.png",
+"url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "ALTV4",
+"image": "https://www.altv.tv/_nuxt/img/altv4-dark.92802e3.png",
+"url": "https://tv.trueid.net/embed/altv?autoplay=yes&nopageview=yes",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "TNN 16",
+"image": "https://www.inwiptv.com/postor/20200208001644tnn24.jpg",
+"url": "https://cdnlive.goprimetime.info/feed//chtnn/playlist.m3u8",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "TNN 16",
+"image": "https://www.inwiptv.com/postor/20200208001644tnn24.jpg",
+"url": "https://www.tnnthailand.com/live/",
+"referer": "https://www.tnnthailand.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "TNN 16",
+"image": "https://www.inwiptv.com/postor/20200208001644tnn24.jpg",
+"url": "https://tnnthailand-8zdgwf.cdn.byteark.com/live/pl_720p/index.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "TNN 16",
+"image": "https://www.inwiptv.com/postor/20200208001644tnn24.jpg",
+"url": "https://tv.trueid.net/embed/tnn16?autoplay=yes&nopageview=yes",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+},
+
+{
+"name": "JKN 18",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Jkn18.png/1200px-Jkn18.png",
+"url": "https://cdnlive.goprimetime.info/feed/newtv/playlist.m3u8",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "JKN 18",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Jkn18.png/1200px-Jkn18.png",
+"url": "https://tv.trueid.net/embed/newtv?autoplay=yes&nopageview=yes",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+},
+
+{
+"name": "JKN 18",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Jkn18.png/1200px-Jkn18.png",
+"url": "https://www.adintrend.tv/hd/ch30?t=live",
+"referer": "https://www.adintrend.tv/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Nation TV",
+"image": "https://www.inwiptv.com/postor/20200208001721nation.jpg",
+"url": "https://cdnlive.goprimetime.info/feed/chnation/index.m3u8",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Nation TV",
+"image": "https://www.inwiptv.com/postor/20200208001721nation.jpg",
+"url": "https://tv.trueid.net/embed/nationtv?autoplay=yes&nopageview=yes",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+},
+
+{
+"name": "Nation TV",
+"image": "https://www.inwiptv.com/postor/20200208001721nation.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27162",
+"referer": "https://www.inwiptv.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Work Point",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",
+"url": "https://cdnlive.goprimetime.info/feed//chworkpoint/playlist.m3u8",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Work Point",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",
+"url": "https://tv.trueid.net/embed/workpointtv?autoplay=yes&nopageview=yes",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+},
+
+{
+"name": "Work Point",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27159",
+"referer": "https://www.inwiptv.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True4U",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",
+"url": "https://cdnlive.goprimetime.info/feed//chtrue4u/playlist.m3u8",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True4U",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",
+"url": "https://tv.trueid.net/embed/true4u?autoplay=yes&nopageview=yes",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+},
+
+{
+"name": "True4U",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27156",
+"referer": "https://www.inwiptv.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "GMM 25",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",
+"url": "https://cdnlive.goprimetime.info/feed//chgmm/playlist.m3u8",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "GMM 25",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",
+"url": "https://tv.trueid.net/embed/gmm25?autoplay=yes&nopageview=yes",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+},
+
+{
+"name": "GMM 25",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27153",
+"referer": "https://www.inwiptv.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "CH 8",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",
+"url": "https://cdnlive.goprimetime.info/feed//ch8/playlist.m3u8",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "CH 8",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",
+"url": "http://stream.rs.co.th/ch8-hi/index.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "CH 8",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",
+"url": "https://tv.trueid.net/embed/ch8?autoplay=yes&nopageview=yes",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+},
+
+{
+"name": "Mono29",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",
+"url": "https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Mono29",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",
+"url": "https://tv.trueid.net/embed/mono29?autoplay=yes&nopageview=yes",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+},
+
+{
+"name": "Mono29",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27144",
+"referer": "https://www.inwiptv.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "MCOT",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
+"url": "http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "MCOT",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
+"url": "https://cdnlive.goprimetime.info/feed//chmcothd/playlist.m3u8",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "MCOT",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
+"url": "https://tv.trueid.net/embed/9mcot-hd?autoplay=yes&nopageview=yes",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+},
+
+{
+"name": "One 31",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",
+"url": "https://cdnlive.goprimetime.info/feed//chonehd/playlist.m3u8",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "One 31",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",
+"url": "https://tv.trueid.net/embed/one-hd?autoplay=yes&nopageview=yes",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+},
+
+{
+"name": "One 31",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27140",
+"referer": "https://www.inwiptv.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Thairath TV",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
+"url": "https://cdnlive.goprimetime.info/feed//chthairath/playlist.m3u8",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Thairath TV",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
+"url": "https://tv.trueid.net/embed/thairathtv-hd?autoplay=yes&nopageview=yes",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+},
+
+{
+"name": "Thairath TV",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27138",
+"referer": "https://www.inwiptv.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "CH 3",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
+"url": "https://cdnlive.goprimetime.info/feed//ch3hd/playlist.m3u8",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "CH 3",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
+"url": "https://tv.trueid.net/embed/ch3-hd?autoplay=yes&nopageview=yes",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+},
+
+{
+"name": "CH 3",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27137",
+"referer": "https://www.inwiptv.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Amarin TV",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",
+"url": "https://cdnlive.goprimetime.info/feed//chamarin/playlist.m3u8",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Amarin TV",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",
+"url": "https://tv.trueid.net/embed/amarintv-hd?autoplay=yes&nopageview=yes",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+},
+
+{
+"name": "Amarin TV",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27135",
+"referer": "https://www.inwiptv.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "CH 7",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
+"url": "https://cdnlive.goprimetime.info/feed//ch7hd/playlist.m3u8",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "CH 7",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
+"url": "https://tv.trueid.net/embed/ch7-hd?autoplay=yes&nopageview=yes",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+},
+
+{
+"name": "CH 7",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
+"url": "https://www.ch7.com/live.html",
+"referer": "https://www.ch7.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "PPTV",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
+"url": "https://cdnlive.goprimetime.info/feed//chpptvhd/playlist.m3u8",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "PPTV",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
+"url": "https://tv.trueid.net/embed/pptv-hd?autoplay=yes&nopageview=yes",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+},
+
+{
+"name": "PPTV",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27129",
+"referer": "https://www.inwiptv.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "TOP New",
+"image": "https://i.pinimg.com/originals/f6/1b/69/f61b693c366675849d8cc1097672f8ba.jpg",
+"url": "https://live.topnews.co.th/hls/topnews.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "TOP New",
+"image": "https://i.pinimg.com/originals/f6/1b/69/f61b693c366675849d8cc1097672f8ba.jpg",
+"url": "https://www.adintrend.tv/hd/ch40?t=live",
+"referer": "https://www.adintrend.tv/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "New 1",
+"image": "https://news1live.com/images/social-share-logo.png",
+"url": "http://news1.live14.com:80/stream/news1_hi.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "New 1",
+"image": "https://news1live.com/images/social-share-logo.png",
+"url": "https://server1.streamssl.com/stream/news1_mid.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Chiangrai Channel",
+"image": "https://yt3.ggpht.com/ytc/AAUvwnj2RvZQ0xGn814CelpYiOd9fTsxdtq-XVXmfkJ-gQ=s900-c-k-c0x00ffffff-no-rj",
+"url": "https://live.thaitvstream.com/play/chiangrai/index.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "English Club",
+"image": "http://english-club.tv/wp-content/uploads/2015/09/Logo_ECTV_big.png",
+"url": "https://cdnlive.goprimetime.info/feed/LC21/index.m3u8",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "English Club",
+"image": "http://english-club.tv/wp-content/uploads/2015/09/Logo_ECTV_big.png",
+"url": "https://cdnlive.goprimetime.info/feed/LC21/index.m3u8",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Burirum TV",
+"image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1613382885490_movie_image.jpg",
+"url": "https://cdnlive.goprimetime.info/feed/LC21/index.m3u8",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+
+
+]
+}
