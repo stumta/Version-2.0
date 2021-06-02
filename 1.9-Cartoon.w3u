@@ -1,0 +1,81 @@
+
+
+{
+"name":"1.9-Cartoon",
+"author": "Version 2.0 02 May 2021",
+"image":"https://logos.textgiraffe.com/logos/logo-name/Cartoon-designstyle-cartoon-m.png",
+"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.9-Cartoon.w3u",
+
+
+"groups": [ 
+
+{
+"name": "1.9.01-Cartoon Movie",
+"image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/15081ebe-a86a-4d6b-9fc9-23d9d799b1a1/dau1bxu-bf13acb3-7cb1-4230-a07c-b1f1ee261dae.png",
+"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.9.0-Cartoon%20Movie.m3u",
+"import": false
+},
+
+{
+"name": "1.9.02-Kimetsu no Yaiba",
+"image": "https://cdn-img.movieclub.tv/img_series_vertical/1554798838_kimetsu-no-yaiba_cover.jpg",
+"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.9.2-Kimetsu%20no%20Yaiba.m3u",
+"import": false
+},
+
+{
+"name": "1.9.03-Attack on Titan Season 1",
+"image": "https://images.genius.com/477d942c147e492dd341db563ee7b332.1000x750x1.jpg",
+"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.9.3-Attack%20on%20Titan%20Season%201.m3u",
+"import": false
+},
+
+{
+"name": "1.9.04-Attack on Titan Season 2",
+"image": "https://i.pinimg.com/originals/26/b1/3b/26b13b6b533cb9968e73d2c50afab8a3.png",
+"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.9.4-Attack%20on%20Titan%20Season%202.m3u",
+"import": false
+},
+
+{
+"name": "1.9.05-Attack On Titan Season 3",
+"image": "https://images-na.ssl-images-amazon.com/images/I/911qTnP-2fL._RI_.jpg",
+"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.9.5-Attack%20on%20Titan%20Season%203.m3u",
+"import": false
+},
+
+{
+"name": "1.9.06-Attack On Titan Season 4 Final",
+"image": "https://i.ytimg.com/vi/ri6YWr03izo/maxresdefault.jpg",
+"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.9.6-Attack%20on%20Titan%20Season%204%20Final.m3u",
+"import": false
+},
+
+{
+"name": "1.9.07-My Hero Academia: Heroes Rising TH",  
+"image": "https://www.inwiptv.com/postor/20210521193634zGVbrulkupqpbwgiNedkJPyQum4.jpg",  
+"url": "https://m7.inwstream.com:1936/movie3/My_Hero_Academia_Heroes_Rising_2019/My_Hero_Academia_Heroes_Rising_2019_thr_z1.mp4/chunk.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "1.9.07-My Hero Academia: Heroes Rising Sub",  
+"image": "https://www.inwiptv.com/postor/20210521193634zGVbrulkupqpbwgiNedkJPyQum4.jpg",  
+"url": "https://m7.inwstream.com:1936/movie3/My_Hero_Academia_Heroes_Rising_2019/My_Hero_Academia_Heroes_Rising_2019_jp_1080p.mp4/chunk.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "1.9.08-Conan",  
+"image": "https://movie.mthai.com/app/uploads/2018/08/cover-conan-2.jpg",  
+"url": "https://raw.githubusercontent.com/stumta/Version-2.0/main/1.9.08-Connan.m3u",
+"playInNatPlayer": "true"
+},
+
+
+
+]
+}
+
+]
+}
