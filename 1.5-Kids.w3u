@@ -1,0 +1,398 @@
+
+
+{
+"name": "Kids",
+"author": "update 06 June 2021",
+"image": "https://www.pngkey.com/png/detail/877-8779194_cartoon-network-nickelodeon-disney-channel-logo-png-cartoon.png",
+"stations":[
+
+
+
+{
+"name": "Cartoon Network",
+"image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
+"url": "https://dogtoop.com:8443/cnth/RV69Wt8Swz/113",
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Cartoon Network",
+"image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
+"url": "http://119.161.100.50:8082/live/cartoonnetwork/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Cartoon Network",
+"image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
+"url": "https://www.we-play.tv/watching/tv/cartoon-network",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+
+{ 
+"name":"Nickelodeon",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickolodeon.png",
+"url": "https://dogtoop.com:8443/nick/tRFK9PUDQs/181",
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Nickelodeon",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickolodeon.png",              
+"url": "http://119.161.100.50:8082/live/nickelodeon/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Nickelodeon",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickolodeon.png",              
+"url": "https://player.we-play.tv/channel.php?name=nickelodeon&cate=kids",
+"referer":"https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+
+
+{ 
+"name":"Nick Jr.",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",
+"url": "https://dogtoop.com:8443/nickjrth/KC7kDw9Spe/111",
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name":"Nick Jr.",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",
+"url": "http://119.161.100.50:8082/live/nickjr/playlist.m3u8",
+"import": false
+},
+
+{
+"name": "Baby TV",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0126.png",
+"url": "https://fo1iptv.com/tv-player/babytv.html",
+"referer": "https://fo1iptv.com/",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Baby TV",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0126.png",              
+"url": "https://player.we-play.tv/channel.php?name=babytv&cate=kids",
+"referer":"https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Baby TV",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0126.png",              
+"url": "http://119.161.100.50:8082/live/babytv/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Baby TV",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0126.png",              
+"url": "http://dogtoop.com:8443/babyth/c7x7awja8S/112",
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Baby First",
+"image": "https://sv1.picz.in.th/images/2021/02/16/oq0iJe.jpg",              
+"url": "https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunkli.m3u8",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Cartoon Club",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0100.png",              
+"url": "http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Cartoon Club",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0100.png",
+"url": "https://tv.trueid.net/embed/cartoonclub?autoplay=yes&nopageview=yes",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+},
+
+{ 
+"name": "Cartoon Club",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0100.png",              
+"url": "https://player.we-play.tv/channel.php?name=cartoon-club&cate=kids",
+"referer": "https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "True Spark Jump ",
+"image": "http://cms.dmpcdn.com/livetv/2017/10/18/30cb13b7-d265-44f7-9ad4-55395469bb0a.png", 
+"url": "https://dogtoop.com:8443/truesparkjump/dhzfhCzb2J/115",
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "True Spark play",
+"image": "http://cms.dmpcdn.com/livetv/2017/10/18/fc9ea58f-72b7-44a4-b27b-3179df6c8445.png",
+"url": "https://dogtoop.com:8443/trueplay/ejnsfrwWrz/116",
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "True Spark Jump ",
+"image": "http://cms.dmpcdn.com/livetv/2017/10/18/30cb13b7-d265-44f7-9ad4-55395469bb0a.png", 
+"url": "http://119.161.100.50:8082/live/sparkjump/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "True Spark play",
+"image": "http://cms.dmpcdn.com/livetv/2017/10/18/fc9ea58f-72b7-44a4-b27b-3179df6c8445.png",
+"url": "http://119.161.100.50:8082/live/sparkplay/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "TOONEE",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/V0176.png",              
+"url": "https://cdnlive.goprimetime.info/feed/LC23/index.m3u8",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "TOONEE",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/V0176.png",              
+"url": "https://27.254.130.62/feed/LC23/index.m3u8",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "TOONEE",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/V0176.png",              
+"url": "http://freelive.inwstream.com:1935/freelive-edge/toonee/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Boomerang",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png",  
+"url": "http://27.254.130.56:80/live01/ch18.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Boomerang",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png",  
+"url": "http://freelive.inwstream.com:1935/freelive-edge/boomerang/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Boomerang",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png",  
+"url": "https://cdnlive.goprimetime.info/feed/chboomberang/index.m3u8",
+"userAgent": "ProPlayer",
+"playInNatPlayer": "true"
+},
+ 
+{ 
+"name": "Animax",
+"image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",              
+"url": "https://cdnlive.goprimetime.info/feed/LC38/index.m3u8",
+"userAgent": "ProPlayer",
+"import": false
+},
+
+{ 
+"name": "Animax",
+"image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",              
+"url": "http://27.254.130.62/feed/LC38/tracks-v1a1/mono.m3u8",
+"userAgent": "exoplayer_video",
+"import": false
+},
+
+{ 
+"name": "Aniplus",
+"image": "https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2017/06/Aniplus-Logo-Still-Video.jpg",              
+"url": "http://119.161.100.50:8082/live/aniplus/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Aniplus",
+"image": "https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2017/06/Aniplus-Logo-Still-Video.jpg",
+"url": "https://fo1iptv.com/tv-player/aniplus.html",
+"referer": "https://fo1iptv.com/",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Aniplus",
+"image": "https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2017/06/Aniplus-Logo-Still-Video.jpg",              
+"url": "https://player.we-play.tv/channel.php?name=aniplus&cate=kids",
+"referer":"https://player.we-play.tv"
+},
+
+{ 
+"name": "Disney",
+"image": "http://cms.dmpcdn.com/livetv/2018/12/17/36065d65-1bef-431e-b697-3f2bc574c779.png",              
+"url": "https://dogtoop.com:8443/disneychannel/disney/114", 
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"playInNatPlayer": "true"
+
+},
+
+{
+"name": "Disney Channel",
+"image": "http://cms.dmpcdn.com/livetv/2018/12/17/36065d65-1bef-431e-b697-3f2bc574c779.png", 
+"url": "https://fo1iptv.com/tv-player/disney-channel.html",
+"referer": "https://fo1iptv.com/",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Disney Channel",
+"image": "http://cms.dmpcdn.com/livetv/2018/12/17/36065d65-1bef-431e-b697-3f2bc574c779.png",              
+"url": "http://dogtoop.com:8443/disneychannel/disney/114", 
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name":"Disney Jr.",
+"image": "http://cms.dmpcdn.com/livetv/2017/10/17/a2e3445b-a3e7-4656-8e98-668467caa9b6.png",
+"url": "https://dogtoop.com:8443/disneyju/JjuQnce33K/180",
+"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Disney Jr",
+"image": "http://cms.dmpcdn.com/livetv/2017/10/17/a2e3445b-a3e7-4656-8e98-668467caa9b6.png",              
+"url": "https://www.we-play.tv/watching/tv/disney-xd",
+"referer":"https://player.we-play.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Disney XD",
+"image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png",
+"url": "https://fo1iptv.com/tv-player/disney-xd.html",
+"referer": "https://fo1iptv.com/",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{ 
+"name": "Miao Mi",
+"image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1616042198756_movie_image.png",              
+"url": "http://203.154.177.124:8899/live/ch20/chunks.m3u8",
+"userAgent": "exoplayer_video",
+ "playInNatPlayer": "true"
+},
+
+{ 
+"name": "M KIDZ",
+"image": "https://sv1.picz.in.th/images/2021/02/16/oqS5FQ.jpg",              
+"url": "http://210.210.155.35/session/a4928952-cfa9-11ea-b874-aa33b27a0a0f/uq2663/h/h98/index.m3u8",
+"import": false       
+},
+
+{ 
+"name": "trtcocuk",
+"image": "https://sv1.picz.in.th/images/2020/12/18/j6d1xQ.jpg",              
+"url": "https://tv-trtcocuk.live.trt.com.tr/master.m3u8",
+"import": false          
+},
+
+{
+"name": "Ja Jing Ja",
+"image": "http://cms.dmpcdn.com/livetv/2017/10/18/d258b502-1da6-445b-bd8f-4304c7ff232e.png",
+"url": "https://tv.trueid.net/embed/jatingjatv?autoplay=yes&nopageview=yes",
+"userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+},
+
+{ 
+"name": "Jatingja",
+"image": "http://cms.dmpcdn.com/livetv/2017/10/18/d258b502-1da6-445b-bd8f-4304c7ff232e.png",              
+"url": "https://boxmovie-th.com/app-api-android/true/Jatingjatv/playlist.m3u8",
+"import": false    
+},
+
+{ 
+"name": "Jatingja",
+"image": "http://cms.dmpcdn.com/livetv/2017/10/18/d258b502-1da6-445b-bd8f-4304c7ff232e.png",              
+"url": "http://203.154.243.32:20585",
+"userAgent": "ProPlayer",
+"import": false    
+},
+
+{ 
+"name": "LEGO",
+"image": "https://images.techhive.com/images/article/2016/03/031016blog-lego-logo-100649540-primary.idge.jpg",              
+"url": "https://legochannel-roku.amagi.tv/playlist1080-p.m3u8",
+"userAgent": "ProPlayer",
+"import": false    
+},
+
+{ 
+"name": "EBS KIDS",
+"image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1607413394209_movie_image.png",              
+"url": "http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8",
+"import": false
+},
+
+{ 
+"name": "LALE",
+"image": "https://www.logodesignlove.com/images/identity/lale-logo-01.jpg",              
+"url": "http://stream.atr.ua/lale//live/index.m3u8",
+"import": false
+},
+
+{
+"name": "3ABN Kids",  
+"image": "https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/03/93/a103938e-888f-31ed-c85d-0ed2ab8d6d55/source/512x512bb.jpg",  
+"url": "https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "MoonBug",  
+"image": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012020/moonbug_kids_on_white.png",  
+"url": "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "PBS KIDS",
+"image": "https://www.wxxi.org/sites/default/files/imagecache/medium_longside_scaled/images/highlights/pbskids_logo169.png",
+"url": "https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8",
+"referer": "http://photocall.tv/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Toon Goggles",
+"image": "https://images-eu.ssl-images-amazon.com/images/I/81j8DgLstPL.png",
+"url": "https://toongoggles-toongoggles-3-gb.samsung.wurl.com/manifest/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+
+]
+}
